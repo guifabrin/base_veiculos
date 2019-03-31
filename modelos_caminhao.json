@@ -1,0 +1,1697 @@
+[
+ {
+   "ID": 320,
+   "IDMARCA": 14,
+   "NOME": "HR"
+ },
+ {
+   "ID": 734,
+   "IDMARCA": 4,
+   "NOME": "1113"
+ },
+ {
+   "ID": 735,
+   "IDMARCA": 4,
+   "NOME": "1214"
+ },
+ {
+   "ID": 736,
+   "IDMARCA": 4,
+   "NOME": "1318"
+ },
+ {
+   "ID": 738,
+   "IDMARCA": 4,
+   "NOME": "1519"
+ },
+ {
+   "ID": 739,
+   "IDMARCA": 4,
+   "NOME": "1614"
+ },
+ {
+   "ID": 740,
+   "IDMARCA": 4,
+   "NOME": "1620"
+ },
+ {
+   "ID": 746,
+   "IDMARCA": 27,
+   "NOME": "7000D"
+ },
+ {
+   "ID": 748,
+   "IDMARCA": 4,
+   "NOME": "709"
+ },
+ {
+   "ID": 749,
+   "IDMARCA": 4,
+   "NOME": "710"
+ },
+ {
+   "ID": 750,
+   "IDMARCA": 4,
+   "NOME": "912"
+ },
+ {
+   "ID": 753,
+   "IDMARCA": 4,
+   "NOME": "2000"
+ },
+ {
+   "ID": 1452,
+   "IDMARCA": 164,
+   "NOME": "TRAILER"
+ },
+ {
+   "ID": 1453,
+   "IDMARCA": 13,
+   "NOME": "F-12000"
+ },
+ {
+   "ID": 1461,
+   "IDMARCA": 2,
+   "NOME": "MASCARELLO"
+ },
+ {
+   "ID": 1462,
+   "IDMARCA": 2,
+   "NOME": "GRANMICRO"
+ },
+ {
+   "ID": 1482,
+   "IDMARCA": 263,
+   "NOME": "ONIBUS"
+ },
+ {
+   "ID": 1483,
+   "IDMARCA": 266,
+   "NOME": "GUINDASTE"
+ },
+ {
+   "ID": 1511,
+   "IDMARCA": 266,
+   "NOME": "EMPILHADEIRA"
+ },
+ {
+   "ID": 1519,
+   "IDMARCA": 242,
+   "NOME": "112"
+ },
+ {
+   "ID": 1521,
+   "IDMARCA": 27,
+   "NOME": "10000"
+ },
+ {
+   "ID": 1522,
+   "IDMARCA": 27,
+   "NOME": "13000"
+ },
+ {
+   "ID": 1523,
+   "IDMARCA": 27,
+   "NOME": "14000"
+ },
+ {
+   "ID": 1524,
+   "IDMARCA": 27,
+   "NOME": "1600"
+ },
+ {
+   "ID": 1525,
+   "IDMARCA": 27,
+   "NOME": "1800"
+ },
+ {
+   "ID": 1526,
+   "IDMARCA": 27,
+   "NOME": "4500"
+ },
+ {
+   "ID": 1527,
+   "IDMARCA": 27,
+   "NOME": "5000"
+ },
+ {
+   "ID": 1528,
+   "IDMARCA": 27,
+   "NOME": "6000"
+ },
+ {
+   "ID": 1529,
+   "IDMARCA": 27,
+   "NOME": "7000"
+ },
+ {
+   "ID": 1530,
+   "IDMARCA": 27,
+   "NOME": "7500"
+ },
+ {
+   "ID": 1531,
+   "IDMARCA": 27,
+   "NOME": "8000"
+ },
+ {
+   "ID": 1532,
+   "IDMARCA": 27,
+   "NOME": "8500"
+ },
+ {
+   "ID": 1533,
+   "IDMARCA": 27,
+   "NOME": "8700"
+ },
+ {
+   "ID": 1534,
+   "IDMARCA": 27,
+   "NOME": "9200"
+ },
+ {
+   "ID": 1536,
+   "IDMARCA": 1,
+   "NOME": "D-12000"
+ },
+ {
+   "ID": 1537,
+   "IDMARCA": 1,
+   "NOME": "D-13000"
+ },
+ {
+   "ID": 1538,
+   "IDMARCA": 1,
+   "NOME": "D-14000"
+ },
+ {
+   "ID": 1539,
+   "IDMARCA": 1,
+   "NOME": "19000"
+ },
+ {
+   "ID": 1540,
+   "IDMARCA": 1,
+   "NOME": "21000"
+ },
+ {
+   "ID": 1541,
+   "IDMARCA": 1,
+   "NOME": "22000"
+ },
+ {
+   "ID": 1542,
+   "IDMARCA": 1,
+   "NOME": "D-6000"
+ },
+ {
+   "ID": 1543,
+   "IDMARCA": 1,
+   "NOME": "C-60"
+ },
+ {
+   "ID": 1544,
+   "IDMARCA": 1,
+   "NOME": "D-40"
+ },
+ {
+   "ID": 1545,
+   "IDMARCA": 1,
+   "NOME": "D-60"
+ },
+ {
+   "ID": 1546,
+   "IDMARCA": 1,
+   "NOME": "D-70"
+ },
+ {
+   "ID": 1549,
+   "IDMARCA": 61,
+   "NOME": "JBC"
+ },
+ {
+   "ID": 1550,
+   "IDMARCA": 61,
+   "NOME": "N601"
+ },
+ {
+   "ID": 1551,
+   "IDMARCA": 61,
+   "NOME": "N900"
+ },
+ {
+   "ID": 1552,
+   "IDMARCA": 3,
+   "NOME": "190"
+ },
+ {
+   "ID": 1626,
+   "IDMARCA": 13,
+   "NOME": "CARGO"
+ },
+ {
+   "ID": 1627,
+   "IDMARCA": 13,
+   "NOME": "F-11000"
+ },
+ {
+   "ID": 1629,
+   "IDMARCA": 13,
+   "NOME": "F-13000"
+ },
+ {
+   "ID": 1630,
+   "IDMARCA": 13,
+   "NOME": "F-14000"
+ },
+ {
+   "ID": 1631,
+   "IDMARCA": 13,
+   "NOME": "F-16000"
+ },
+ {
+   "ID": 1632,
+   "IDMARCA": 13,
+   "NOME": "F-19000"
+ },
+ {
+   "ID": 1633,
+   "IDMARCA": 13,
+   "NOME": "F-2000"
+ },
+ {
+   "ID": 1634,
+   "IDMARCA": 13,
+   "NOME": "F-21000"
+ },
+ {
+   "ID": 1635,
+   "IDMARCA": 13,
+   "NOME": "F-22000"
+ },
+ {
+   "ID": 1636,
+   "IDMARCA": 13,
+   "NOME": "F-350"
+ },
+ {
+   "ID": 1637,
+   "IDMARCA": 13,
+   "NOME": "F-4"
+ },
+ {
+   "ID": 1638,
+   "IDMARCA": 13,
+   "NOME": "F-4000"
+ },
+ {
+   "ID": 1639,
+   "IDMARCA": 13,
+   "NOME": "F-7000"
+ },
+ {
+   "ID": 1640,
+   "IDMARCA": 13,
+   "NOME": "F-MAXX"
+ },
+ {
+   "ID": 1641,
+   "IDMARCA": 1,
+   "NOME": "12-170"
+ },
+ {
+   "ID": 1642,
+   "IDMARCA": 1,
+   "NOME": "14-190"
+ },
+ {
+   "ID": 1643,
+   "IDMARCA": 1,
+   "NOME": "15-190"
+ },
+ {
+   "ID": 1644,
+   "IDMARCA": 1,
+   "NOME": "16-220"
+ },
+ {
+   "ID": 1645,
+   "IDMARCA": 1,
+   "NOME": "3500"
+ },
+ {
+   "ID": 1646,
+   "IDMARCA": 1,
+   "NOME": "5-90"
+ },
+ {
+   "ID": 1647,
+   "IDMARCA": 1,
+   "NOME": "6-100"
+ },
+ {
+   "ID": 1648,
+   "IDMARCA": 1,
+   "NOME": "6-150"
+ },
+ {
+   "ID": 1649,
+   "IDMARCA": 1,
+   "NOME": "7-110"
+ },
+ {
+   "ID": 1650,
+   "IDMARCA": 14,
+   "NOME": "HD78"
+ },
+ {
+   "ID": 1651,
+   "IDMARCA": 85,
+   "NOME": "CITYCLASS"
+ },
+ {
+   "ID": 1652,
+   "IDMARCA": 85,
+   "NOME": "CURSOR"
+ },
+ {
+   "ID": 1653,
+   "IDMARCA": 85,
+   "NOME": "DAILY"
+ },
+ {
+   "ID": 1661,
+   "IDMARCA": 85,
+   "NOME": "EUROCARGO"
+ },
+ {
+   "ID": 1664,
+   "IDMARCA": 85,
+   "NOME": "EUROTECH"
+ },
+ {
+   "ID": 1665,
+   "IDMARCA": 85,
+   "NOME": "EUROTRAKKER"
+ },
+ {
+   "ID": 1666,
+   "IDMARCA": 85,
+   "NOME": "POWERSTAR"
+ },
+ {
+   "ID": 1667,
+   "IDMARCA": 85,
+   "NOME": "STRALIS"
+ },
+ {
+   "ID": 1670,
+   "IDMARCA": 85,
+   "NOME": "TECTOR"
+ },
+ {
+   "ID": 1671,
+   "IDMARCA": 85,
+   "NOME": "TRAKKER"
+ },
+ {
+   "ID": 1672,
+   "IDMARCA": 85,
+   "NOME": "VERTIS"
+ },
+ {
+   "ID": 1673,
+   "IDMARCA": 274,
+   "NOME": "TGX"
+ },
+ {
+   "ID": 1679,
+   "IDMARCA": 4,
+   "NOME": "1114"
+ },
+ {
+   "ID": 1681,
+   "IDMARCA": 4,
+   "NOME": "1215"
+ },
+ {
+   "ID": 1682,
+   "IDMARCA": 4,
+   "NOME": "1218"
+ },
+ {
+   "ID": 1684,
+   "IDMARCA": 4,
+   "NOME": "1414"
+ },
+ {
+   "ID": 1686,
+   "IDMARCA": 4,
+   "NOME": "1420"
+ },
+ {
+   "ID": 1687,
+   "IDMARCA": 4,
+   "NOME": "1714"
+ },
+ {
+   "ID": 1689,
+   "IDMARCA": 4,
+   "NOME": "1720"
+ },
+ {
+   "ID": 1690,
+   "IDMARCA": 4,
+   "NOME": "1721"
+ },
+ {
+   "ID": 1691,
+   "IDMARCA": 4,
+   "NOME": "1723"
+ },
+ {
+   "ID": 1693,
+   "IDMARCA": 4,
+   "NOME": "1938"
+ },
+ {
+   "ID": 1694,
+   "IDMARCA": 4,
+   "NOME": "1944-S"
+ },
+ {
+   "ID": 1695,
+   "IDMARCA": 4,
+   "NOME": "2038"
+ },
+ {
+   "ID": 1696,
+   "IDMARCA": 4,
+   "NOME": "2418"
+ },
+ {
+   "ID": 1697,
+   "IDMARCA": 4,
+   "NOME": "2423"
+ },
+ {
+   "ID": 1699,
+   "IDMARCA": 4,
+   "NOME": "2638"
+ },
+ {
+   "ID": 1700,
+   "IDMARCA": 4,
+   "NOME": "2726"
+ },
+ {
+   "ID": 1701,
+   "IDMARCA": 4,
+   "NOME": "608"
+ },
+ {
+   "ID": 1702,
+   "IDMARCA": 4,
+   "NOME": "708"
+ },
+ {
+   "ID": 1705,
+   "IDMARCA": 4,
+   "NOME": "712"
+ },
+ {
+   "ID": 1707,
+   "IDMARCA": 4,
+   "NOME": "914"
+ },
+ {
+   "ID": 1709,
+   "IDMARCA": 4,
+   "NOME": "ACCELO"
+ },
+ {
+   "ID": 1710,
+   "IDMARCA": 4,
+   "NOME": "ACTROS"
+ },
+ {
+   "ID": 1711,
+   "IDMARCA": 4,
+   "NOME": "ATEGO"
+ },
+ {
+   "ID": 1712,
+   "IDMARCA": 4,
+   "NOME": "ATILIS"
+ },
+ {
+   "ID": 1713,
+   "IDMARCA": 4,
+   "NOME": "ATRON"
+ },
+ {
+   "ID": 1714,
+   "IDMARCA": 4,
+   "NOME": "AXOR"
+ },
+ {
+   "ID": 1717,
+   "IDMARCA": 4,
+   "NOME": "L-1117"
+ },
+ {
+   "ID": 1718,
+   "IDMARCA": 4,
+   "NOME": "L-1118"
+ },
+ {
+   "ID": 1721,
+   "IDMARCA": 4,
+   "NOME": "L-1313"
+ },
+ {
+   "ID": 1722,
+   "IDMARCA": 4,
+   "NOME": "L-1314"
+ },
+ {
+   "ID": 1724,
+   "IDMARCA": 4,
+   "NOME": "L-1317"
+ },
+ {
+   "ID": 1726,
+   "IDMARCA": 4,
+   "NOME": "L-1319"
+ },
+ {
+   "ID": 1730,
+   "IDMARCA": 4,
+   "NOME": "L-1514"
+ },
+ {
+   "ID": 1732,
+   "IDMARCA": 4,
+   "NOME": "L-1517"
+ },
+ {
+   "ID": 1735,
+   "IDMARCA": 4,
+   "NOME": "1520"
+ },
+ {
+   "ID": 1744,
+   "IDMARCA": 4,
+   "NOME": "L-2014"
+ },
+ {
+   "ID": 1745,
+   "IDMARCA": 4,
+   "NOME": "L-2017"
+ },
+ {
+   "ID": 1746,
+   "IDMARCA": 4,
+   "NOME": "L-2213"
+ },
+ {
+   "ID": 1747,
+   "IDMARCA": 4,
+   "NOME": "L-2214"
+ },
+ {
+   "ID": 1748,
+   "IDMARCA": 4,
+   "NOME": "L-2215"
+ },
+ {
+   "ID": 1749,
+   "IDMARCA": 4,
+   "NOME": "L-2216"
+ },
+ {
+   "ID": 1750,
+   "IDMARCA": 4,
+   "NOME": "L-2217"
+ },
+ {
+   "ID": 1752,
+   "IDMARCA": 4,
+   "NOME": "L-2220"
+ },
+ {
+   "ID": 1753,
+   "IDMARCA": 4,
+   "NOME": "L-2225"
+ },
+ {
+   "ID": 1754,
+   "IDMARCA": 4,
+   "NOME": "L-2314"
+ },
+ {
+   "ID": 1755,
+   "IDMARCA": 4,
+   "NOME": "L-2318"
+ },
+ {
+   "ID": 1756,
+   "IDMARCA": 4,
+   "NOME": "L-2325"
+ },
+ {
+   "ID": 1757,
+   "IDMARCA": 4,
+   "NOME": "2635"
+ },
+ {
+   "ID": 1771,
+   "IDMARCA": 4,
+   "NOME": "LS-1632"
+ },
+ {
+   "ID": 1780,
+   "IDMARCA": 4,
+   "NOME": "LS-1941"
+ },
+ {
+   "ID": 1783,
+   "IDMARCA": 275,
+   "NOME": "DURASTAR"
+ },
+ {
+   "ID": 1784,
+   "IDMARCA": 275,
+   "NOME": "INTERNATIONAL"
+ },
+ {
+   "ID": 1792,
+   "IDMARCA": 124,
+   "NOME": "7900"
+ },
+ {
+   "ID": 1793,
+   "IDMARCA": 124,
+   "NOME": "9000"
+ },
+ {
+   "ID": 1794,
+   "IDMARCA": 124,
+   "NOME": "914"
+ },
+ {
+   "ID": 1795,
+   "IDMARCA": 137,
+   "NOME": "R-112"
+ },
+ {
+   "ID": 1796,
+   "IDMARCA": 137,
+   "NOME": "R-142"
+ },
+ {
+   "ID": 1797,
+   "IDMARCA": 137,
+   "NOME": "T-112"
+ },
+ {
+   "ID": 1798,
+   "IDMARCA": 137,
+   "NOME": "T-142"
+ },
+ {
+   "ID": 1800,
+   "IDMARCA": 242,
+   "NOME": "380"
+ },
+ {
+   "ID": 1801,
+   "IDMARCA": 242,
+   "NOME": "400"
+ },
+ {
+   "ID": 1802,
+   "IDMARCA": 242,
+   "NOME": "420"
+ },
+ {
+   "ID": 1803,
+   "IDMARCA": 242,
+   "NOME": "440"
+ },
+ {
+   "ID": 1804,
+   "IDMARCA": 242,
+   "NOME": "470"
+ },
+ {
+   "ID": 1805,
+   "IDMARCA": 242,
+   "NOME": "480"
+ },
+ {
+   "ID": 1806,
+   "IDMARCA": 242,
+   "NOME": "111"
+ },
+ {
+   "ID": 1807,
+   "IDMARCA": 242,
+   "NOME": "141"
+ },
+ {
+   "ID": 1808,
+   "IDMARCA": 242,
+   "NOME": "114"
+ },
+ {
+   "ID": 1810,
+   "IDMARCA": 242,
+   "NOME": "230"
+ },
+ {
+   "ID": 1811,
+   "IDMARCA": 242,
+   "NOME": "P-250"
+ },
+ {
+   "ID": 1812,
+   "IDMARCA": 242,
+   "NOME": "P-270"
+ },
+ {
+   "ID": 1813,
+   "IDMARCA": 242,
+   "NOME": "P-310"
+ },
+ {
+   "ID": 1814,
+   "IDMARCA": 242,
+   "NOME": "P-340"
+ },
+ {
+   "ID": 1817,
+   "IDMARCA": 242,
+   "NOME": "93"
+ },
+ {
+   "ID": 1818,
+   "IDMARCA": 242,
+   "NOME": "94"
+ },
+ {
+   "ID": 1822,
+   "IDMARCA": 242,
+   "NOME": "143"
+ },
+ {
+   "ID": 1823,
+   "IDMARCA": 242,
+   "NOME": "164"
+ },
+ {
+   "ID": 1830,
+   "IDMARCA": 242,
+   "NOME": "R-500"
+ },
+ {
+   "ID": 1831,
+   "IDMARCA": 242,
+   "NOME": "R-560"
+ },
+ {
+   "ID": 1832,
+   "IDMARCA": 242,
+   "NOME": "R-580"
+ },
+ {
+   "ID": 1833,
+   "IDMARCA": 242,
+   "NOME": "R-620"
+ },
+ {
+   "ID": 1839,
+   "IDMARCA": 277,
+   "NOME": "HOWO"
+ },
+ {
+   "ID": 1840,
+   "IDMARCA": 2,
+   "NOME": "11-130"
+ },
+ {
+   "ID": 1841,
+   "IDMARCA": 2,
+   "NOME": "11-140"
+ },
+ {
+   "ID": 1842,
+   "IDMARCA": 2,
+   "NOME": "12-170"
+ },
+ {
+   "ID": 1843,
+   "IDMARCA": 2,
+   "NOME": "12-180"
+ },
+ {
+   "ID": 1844,
+   "IDMARCA": 2,
+   "NOME": "13-130"
+ },
+ {
+   "ID": 1845,
+   "IDMARCA": 2,
+   "NOME": "13-150"
+ },
+ {
+   "ID": 1846,
+   "IDMARCA": 2,
+   "NOME": "13-170"
+ },
+ {
+   "ID": 1849,
+   "IDMARCA": 2,
+   "NOME": "14-140"
+ },
+ {
+   "ID": 1850,
+   "IDMARCA": 2,
+   "NOME": "14-150"
+ },
+ {
+   "ID": 1851,
+   "IDMARCA": 2,
+   "NOME": "14-170"
+ },
+ {
+   "ID": 1852,
+   "IDMARCA": 2,
+   "NOME": "14-180"
+ },
+ {
+   "ID": 1853,
+   "IDMARCA": 2,
+   "NOME": "14-200"
+ },
+ {
+   "ID": 1854,
+   "IDMARCA": 2,
+   "NOME": "14-210"
+ },
+ {
+   "ID": 1855,
+   "IDMARCA": 2,
+   "NOME": "14-220"
+ },
+ {
+   "ID": 1856,
+   "IDMARCA": 2,
+   "NOME": "15-170"
+ },
+ {
+   "ID": 1859,
+   "IDMARCA": 2,
+   "NOME": "16-170"
+ },
+ {
+   "ID": 1860,
+   "IDMARCA": 2,
+   "NOME": "16-200"
+ },
+ {
+   "ID": 1861,
+   "IDMARCA": 2,
+   "NOME": "16-210"
+ },
+ {
+   "ID": 1862,
+   "IDMARCA": 2,
+   "NOME": "16-220"
+ },
+ {
+   "ID": 1863,
+   "IDMARCA": 2,
+   "NOME": "16-300"
+ },
+ {
+   "ID": 1864,
+   "IDMARCA": 2,
+   "NOME": "17-180"
+ },
+ {
+   "ID": 1866,
+   "IDMARCA": 2,
+   "NOME": "17-210"
+ },
+ {
+   "ID": 1867,
+   "IDMARCA": 2,
+   "NOME": "17-220"
+ },
+ {
+   "ID": 1869,
+   "IDMARCA": 2,
+   "NOME": "17-280"
+ },
+ {
+   "ID": 1870,
+   "IDMARCA": 2,
+   "NOME": "17-300"
+ },
+ {
+   "ID": 1871,
+   "IDMARCA": 2,
+   "NOME": "17-310"
+ },
+ {
+   "ID": 1873,
+   "IDMARCA": 2,
+   "NOME": "17-330"
+ },
+ {
+   "ID": 1874,
+   "IDMARCA": 2,
+   "NOME": "18-310"
+ },
+ {
+   "ID": 1876,
+   "IDMARCA": 2,
+   "NOME": "19-330"
+ },
+ {
+   "ID": 1878,
+   "IDMARCA": 2,
+   "NOME": "19-390"
+ },
+ {
+   "ID": 1879,
+   "IDMARCA": 2,
+   "NOME": "22-140"
+ },
+ {
+   "ID": 1880,
+   "IDMARCA": 2,
+   "NOME": "22-160"
+ },
+ {
+   "ID": 1881,
+   "IDMARCA": 2,
+   "NOME": "22-210"
+ },
+ {
+   "ID": 1882,
+   "IDMARCA": 2,
+   "NOME": "23-210"
+ },
+ {
+   "ID": 1883,
+   "IDMARCA": 2,
+   "NOME": "23-220"
+ },
+ {
+   "ID": 1884,
+   "IDMARCA": 2,
+   "NOME": "23-250"
+ },
+ {
+   "ID": 1885,
+   "IDMARCA": 2,
+   "NOME": "23-310"
+ },
+ {
+   "ID": 1886,
+   "IDMARCA": 2,
+   "NOME": "24-220"
+ },
+ {
+   "ID": 1888,
+   "IDMARCA": 2,
+   "NOME": "24-280"
+ },
+ {
+   "ID": 1890,
+   "IDMARCA": 2,
+   "NOME": "24-330"
+ },
+ {
+   "ID": 1893,
+   "IDMARCA": 2,
+   "NOME": "25-390"
+ },
+ {
+   "ID": 1894,
+   "IDMARCA": 2,
+   "NOME": "26-220"
+ },
+ {
+   "ID": 1896,
+   "IDMARCA": 2,
+   "NOME": "26-280"
+ },
+ {
+   "ID": 1897,
+   "IDMARCA": 2,
+   "NOME": "26-300"
+ },
+ {
+   "ID": 1898,
+   "IDMARCA": 2,
+   "NOME": "26-310"
+ },
+ {
+   "ID": 1900,
+   "IDMARCA": 2,
+   "NOME": "26-390"
+ },
+ {
+   "ID": 1902,
+   "IDMARCA": 2,
+   "NOME": "31-280"
+ },
+ {
+   "ID": 1903,
+   "IDMARCA": 2,
+   "NOME": "31-310"
+ },
+ {
+   "ID": 1905,
+   "IDMARCA": 2,
+   "NOME": "31-330"
+ },
+ {
+   "ID": 1907,
+   "IDMARCA": 2,
+   "NOME": "31-390"
+ },
+ {
+   "ID": 1908,
+   "IDMARCA": 2,
+   "NOME": "35-300"
+ },
+ {
+   "ID": 1909,
+   "IDMARCA": 2,
+   "NOME": "40-300"
+ },
+ {
+   "ID": 1912,
+   "IDMARCA": 2,
+   "NOME": "6-80"
+ },
+ {
+   "ID": 1913,
+   "IDMARCA": 2,
+   "NOME": "6-90"
+ },
+ {
+   "ID": 1914,
+   "IDMARCA": 2,
+   "NOME": "7-100"
+ },
+ {
+   "ID": 1915,
+   "IDMARCA": 2,
+   "NOME": "7-110"
+ },
+ {
+   "ID": 1916,
+   "IDMARCA": 2,
+   "NOME": "7-90"
+ },
+ {
+   "ID": 1917,
+   "IDMARCA": 2,
+   "NOME": "8-100"
+ },
+ {
+   "ID": 1918,
+   "IDMARCA": 2,
+   "NOME": "8-120"
+ },
+ {
+   "ID": 1919,
+   "IDMARCA": 2,
+   "NOME": "8-140"
+ },
+ {
+   "ID": 1924,
+   "IDMARCA": 2,
+   "NOME": "L-80"
+ },
+ {
+   "ID": 1925,
+   "IDMARCA": 53,
+   "NOME": "FH SERIES"
+ },
+ {
+   "ID": 1926,
+   "IDMARCA": 53,
+   "NOME": "FH GLOBETROTTER SERIES"
+ },
+ {
+   "ID": 1938,
+   "IDMARCA": 53,
+   "NOME": "FM SERIES"
+ },
+ {
+   "ID": 1944,
+   "IDMARCA": 53,
+   "NOME": "FMX SERIES"
+ },
+ {
+   "ID": 1951,
+   "IDMARCA": 53,
+   "NOME": "N SERIES"
+ },
+ {
+   "ID": 1953,
+   "IDMARCA": 53,
+   "NOME": "NH SERIES"
+ },
+ {
+   "ID": 1954,
+   "IDMARCA": 53,
+   "NOME": "NL SERIES"
+ },
+ {
+   "ID": 1956,
+   "IDMARCA": 53,
+   "NOME": "VM SERIES"
+ },
+ {
+   "ID": 1994,
+   "IDMARCA": 2,
+   "NOME": "11-160"
+ },
+ {
+   "ID": 1995,
+   "IDMARCA": 2,
+   "NOME": "12-140"
+ },
+ {
+   "ID": 1996,
+   "IDMARCA": 2,
+   "NOME": "17-230"
+ },
+ {
+   "ID": 1997,
+   "IDMARCA": 2,
+   "NOME": "24-230"
+ },
+ {
+   "ID": 1998,
+   "IDMARCA": 2,
+   "NOME": "28-440"
+ },
+ {
+   "ID": 1999,
+   "IDMARCA": 2,
+   "NOME": "29-440"
+ },
+ {
+   "ID": 2000,
+   "IDMARCA": 2,
+   "NOME": "31-440"
+ },
+ {
+   "ID": 2001,
+   "IDMARCA": 2,
+   "NOME": "33-440"
+ },
+ {
+   "ID": 2002,
+   "IDMARCA": 2,
+   "NOME": "16-180"
+ },
+ {
+   "ID": 2003,
+   "IDMARCA": 2,
+   "NOME": "17-240"
+ },
+ {
+   "ID": 2004,
+   "IDMARCA": 2,
+   "NOME": "17-260"
+ },
+ {
+   "ID": 2005,
+   "IDMARCA": 2,
+   "NOME": "18-320"
+ },
+ {
+   "ID": 2006,
+   "IDMARCA": 2,
+   "NOME": "18-330"
+ },
+ {
+   "ID": 2007,
+   "IDMARCA": 2,
+   "NOME": "15-210"
+ },
+ {
+   "ID": 2016,
+   "IDMARCA": 4,
+   "NOME": "1516"
+ },
+ {
+   "ID": 2018,
+   "IDMARCA": 4,
+   "NOME": "1935"
+ },
+ {
+   "ID": 2019,
+   "IDMARCA": 4,
+   "NOME": "2555"
+ },
+ {
+   "ID": 2020,
+   "IDMARCA": 4,
+   "NOME": "0-400"
+ },
+ {
+   "ID": 2021,
+   "IDMARCA": 284,
+   "NOME": "BI-TREM"
+ },
+ {
+   "ID": 2022,
+   "IDMARCA": 285,
+   "NOME": "BITREM"
+ },
+ {
+   "ID": 2023,
+   "IDMARCA": 4,
+   "NOME": "1513"
+ },
+ {
+   "ID": 2024,
+   "IDMARCA": 1,
+   "NOME": "D-1200"
+ },
+ {
+   "ID": 2025,
+   "IDMARCA": 13,
+   "NOME": "F-3500"
+ },
+ {
+   "ID": 2026,
+   "IDMARCA": 13,
+   "NOME": "F-600"
+ },
+ {
+   "ID": 2027,
+   "IDMARCA": 4,
+   "NOME": "2219"
+ },
+ {
+   "ID": 2028,
+   "IDMARCA": 4,
+   "NOME": "1313"
+ },
+ {
+   "ID": 2029,
+   "IDMARCA": 85,
+   "NOME": "35-10"
+ },
+ {
+   "ID": 2033,
+   "IDMARCA": 1,
+   "NOME": "MARTA-ROCHA"
+ },
+ {
+   "ID": 2038,
+   "IDMARCA": 4,
+   "NOME": "1929"
+ },
+ {
+   "ID": 2042,
+   "IDMARCA": 242,
+   "NOME": "124"
+ },
+ {
+   "ID": 2051,
+   "IDMARCA": 4,
+   "NOME": "1618"
+ },
+ {
+   "ID": 2052,
+   "IDMARCA": 4,
+   "NOME": "1934"
+ },
+ {
+   "ID": 2053,
+   "IDMARCA": 4,
+   "NOME": "1924"
+ },
+ {
+   "ID": 2054,
+   "IDMARCA": 4,
+   "NOME": "1634"
+ },
+ {
+   "ID": 2060,
+   "IDMARCA": 13,
+   "NOME": "F-400"
+ },
+ {
+   "ID": 2062,
+   "IDMARCA": 270,
+   "NOME": "MOTOR-HOME"
+ },
+ {
+   "ID": 2064,
+   "IDMARCA": 292,
+   "NOME": "PA CARREGADEIRA"
+ },
+ {
+   "ID": 2085,
+   "IDMARCA": 263,
+   "NOME": "MICRO-ONIBUS"
+ },
+ {
+   "ID": 2225,
+   "IDMARCA": 242,
+   "NOME": "113"
+ },
+ {
+   "ID": 2255,
+   "IDMARCA": 4,
+   "NOME": "1525"
+ },
+ {
+   "ID": 2256,
+   "IDMARCA": 4,
+   "NOME": "2621"
+ },
+ {
+   "ID": 2297,
+   "IDMARCA": 3,
+   "NOME": "210"
+ },
+ {
+   "ID": 2354,
+   "IDMARCA": 242,
+   "NOME": "110"
+ },
+ {
+   "ID": 2355,
+   "IDMARCA": 242,
+   "NOME": "LK-140"
+ },
+ {
+   "ID": 2357,
+   "IDMARCA": 242,
+   "NOME": "L-80"
+ },
+ {
+   "ID": 2358,
+   "IDMARCA": 242,
+   "NOME": "B-110"
+ },
+ {
+   "ID": 2359,
+   "IDMARCA": 242,
+   "NOME": "BR-115"
+ },
+ {
+   "ID": 2362,
+   "IDMARCA": 242,
+   "NOME": "B-111"
+ },
+ {
+   "ID": 2363,
+   "IDMARCA": 242,
+   "NOME": "BR-116"
+ },
+ {
+   "ID": 2364,
+   "IDMARCA": 242,
+   "NOME": "81"
+ },
+ {
+   "ID": 2365,
+   "IDMARCA": 242,
+   "NOME": "82"
+ },
+ {
+   "ID": 2366,
+   "IDMARCA": 242,
+   "NOME": "92"
+ },
+ {
+   "ID": 2367,
+   "IDMARCA": 242,
+   "NOME": "142"
+ },
+ {
+   "ID": 2370,
+   "IDMARCA": 242,
+   "NOME": "144"
+ },
+ {
+   "ID": 2372,
+   "IDMARCA": 242,
+   "NOME": "L-71"
+ },
+ {
+   "ID": 2373,
+   "IDMARCA": 242,
+   "NOME": "L-75"
+ },
+ {
+   "ID": 2374,
+   "IDMARCA": 242,
+   "NOME": "L-76"
+ },
+ {
+   "ID": 2375,
+   "IDMARCA": 242,
+   "NOME": "P-330"
+ },
+ {
+   "ID": 2465,
+   "IDMARCA": 13,
+   "NOME": "F-750"
+ },
+ {
+   "ID": 2466,
+   "IDMARCA": 4,
+   "NOME": "1625"
+ },
+ {
+   "ID": 2478,
+   "IDMARCA": 4,
+   "NOME": "2013"
+ },
+ {
+   "ID": 2483,
+   "IDMARCA": 4,
+   "NOME": "312"
+ },
+ {
+   "ID": 2488,
+   "IDMARCA": 85,
+   "NOME": "80S"
+ },
+ {
+   "ID": 2490,
+   "IDMARCA": 13,
+   "NOME": "F-6"
+ },
+ {
+   "ID": 2497,
+   "IDMARCA": 242,
+   "NOME": "490"
+ },
+ {
+   "ID": 2504,
+   "IDMARCA": 68,
+   "NOME": "180"
+ },
+ {
+   "ID": 2506,
+   "IDMARCA": 4,
+   "NOME": "1622"
+ },
+ {
+   "ID": 2507,
+   "IDMARCA": 4,
+   "NOME": "1524"
+ },
+ {
+   "ID": 2512,
+   "IDMARCA": 4,
+   "NOME": "1630"
+ },
+ {
+   "ID": 2513,
+   "IDMARCA": 4,
+   "NOME": "1932"
+ },
+ {
+   "ID": 2531,
+   "IDMARCA": 4,
+   "NOME": "1316"
+ },
+ {
+   "ID": 2535,
+   "IDMARCA": 242,
+   "NOME": "133"
+ },
+ {
+   "ID": 2538,
+   "IDMARCA": 1,
+   "NOME": "MATRA"
+ },
+ {
+   "ID": 2539,
+   "IDMARCA": 4,
+   "NOME": "1111"
+ },
+ {
+   "ID": 2549,
+   "IDMARCA": 1,
+   "NOME": "COE"
+ },
+ {
+   "ID": 2550,
+   "IDMARCA": 13,
+   "NOME": "COE"
+ },
+ {
+   "ID": 2551,
+   "IDMARCA": 3,
+   "NOME": "130"
+ },
+ {
+   "ID": 2552,
+   "IDMARCA": 13,
+   "NOME": "F-8"
+ },
+ {
+   "ID": 2577,
+   "IDMARCA": 2,
+   "NOME": "CONSTELLATION"
+ },
+ {
+   "ID": 2578,
+   "IDMARCA": 2,
+   "NOME": "DELIVERY"
+ },
+ {
+   "ID": 2579,
+   "IDMARCA": 2,
+   "NOME": "WORKER"
+ },
+ {
+   "ID": 2601,
+   "IDMARCA": 4,
+   "NOME": "321"
+ },
+ {
+   "ID": 2602,
+   "IDMARCA": 4,
+   "NOME": "1317"
+ },
+ {
+   "ID": 2603,
+   "IDMARCA": 3,
+   "NOME": "180"
+ },
+ {
+   "ID": 2712,
+   "IDMARCA": 266,
+   "NOME": "ESCAVADEIRA"
+ },
+ {
+   "ID": 2713,
+   "IDMARCA": 266,
+   "NOME": "MUNCK"
+ },
+ {
+   "ID": 2714,
+   "IDMARCA": 266,
+   "NOME": "GUINCHO"
+ },
+ {
+   "ID": 2715,
+   "IDMARCA": 266,
+   "NOME": "CARREGADEIRA"
+ },
+ {
+   "ID": 2723,
+   "IDMARCA": 266,
+   "NOME": "MOTONIVELADORA"
+ },
+ {
+   "ID": 2724,
+   "IDMARCA": 4,
+   "NOME": "2213"
+ },
+ {
+   "ID": 2889,
+   "IDMARCA": 266,
+   "NOME": "TANQUE"
+ },
+ {
+   "ID": 2892,
+   "IDMARCA": 266,
+   "NOME": "POLIGUINDASTE"
+ },
+ {
+   "ID": 2893,
+   "IDMARCA": 4,
+   "NOME": "1621"
+ },
+ {
+   "ID": 2894,
+   "IDMARCA": 13,
+   "NOME": "F-8000"
+ },
+ {
+   "ID": 2897,
+   "IDMARCA": 274,
+   "NOME": "24250"
+ },
+ {
+   "ID": 2898,
+   "IDMARCA": 4,
+   "NOME": "1632"
+ },
+ {
+   "ID": 2900,
+   "IDMARCA": 266,
+   "NOME": "PERFURATRIZ"
+ },
+ {
+   "ID": 2919,
+   "IDMARCA": 4,
+   "NOME": "180"
+ },
+ {
+   "ID": 2920,
+   "IDMARCA": 4,
+   "NOME": "1517"
+ },
+ {
+   "ID": 2929,
+   "IDMARCA": 1,
+   "NOME": "C-65"
+ },
+ {
+   "ID": 2930,
+   "IDMARCA": 1,
+   "NOME": "D-11000"
+ },
+ {
+   "ID": 2964,
+   "IDMARCA": 1,
+   "NOME": "D-65"
+ },
+ {
+   "ID": 2971,
+   "IDMARCA": 53,
+   "NOME": "FL SERIES"
+ }
+]

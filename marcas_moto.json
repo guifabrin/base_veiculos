@@ -1,0 +1,390 @@
+[
+ {
+   "ID": 7,
+   "NOME": "HONDA"
+ },
+ {
+   "ID": 27,
+   "NOME": "AGRALE"
+ },
+ {
+   "ID": 36,
+   "NOME": "BMW"
+ },
+ {
+   "ID": 59,
+   "NOME": "SUZUKI"
+ },
+ {
+   "ID": 98,
+   "NOME": "LIFAN"
+ },
+ {
+   "ID": 102,
+   "NOME": "MAHINDRA"
+ },
+ {
+   "ID": 132,
+   "NOME": "SHINERAY"
+ },
+ {
+   "ID": 133,
+   "NOME": "KASINSKI"
+ },
+ {
+   "ID": 135,
+   "NOME": "YAMAHA"
+ },
+ {
+   "ID": 136,
+   "NOME": "GARINNI"
+ },
+ {
+   "ID": 140,
+   "NOME": "SUNDOWN"
+ },
+ {
+   "ID": 170,
+   "NOME": "KAWASAKI"
+ },
+ {
+   "ID": 171,
+   "NOME": "POLARIS"
+ },
+ {
+   "ID": 176,
+   "NOME": "ADLY"
+ },
+ {
+   "ID": 177,
+   "NOME": "AMAZONAS"
+ },
+ {
+   "ID": 178,
+   "NOME": "APRILIA"
+ },
+ {
+   "ID": 179,
+   "NOME": "ATALA"
+ },
+ {
+   "ID": 180,
+   "NOME": "BAJAJ"
+ },
+ {
+   "ID": 181,
+   "NOME": "BENELLI"
+ },
+ {
+   "ID": 182,
+   "NOME": "BETA"
+ },
+ {
+   "ID": 183,
+   "NOME": "BIMOTA"
+ },
+ {
+   "ID": 184,
+   "NOME": "BRANDY"
+ },
+ {
+   "ID": 185,
+   "NOME": "BRAVA"
+ },
+ {
+   "ID": 186,
+   "NOME": "BRP"
+ },
+ {
+   "ID": 187,
+   "NOME": "BUELL"
+ },
+ {
+   "ID": 188,
+   "NOME": "BUENO"
+ },
+ {
+   "ID": 190,
+   "NOME": "CAGIVA"
+ },
+ {
+   "ID": 191,
+   "NOME": "MOBILETE"
+ },
+ {
+   "ID": 192,
+   "NOME": "DAELIM"
+ },
+ {
+   "ID": 193,
+   "NOME": "DAFRA"
+ },
+ {
+   "ID": 194,
+   "NOME": "DAYANG"
+ },
+ {
+   "ID": 195,
+   "NOME": "DAYUN"
+ },
+ {
+   "ID": 196,
+   "NOME": "DERBI"
+ },
+ {
+   "ID": 197,
+   "NOME": "DUCATI"
+ },
+ {
+   "ID": 198,
+   "NOME": "EMME"
+ },
+ {
+   "ID": 200,
+   "NOME": "FYM"
+ },
+ {
+   "ID": 201,
+   "NOME": "GAS GAS"
+ },
+ {
+   "ID": 202,
+   "NOME": "GREEN"
+ },
+ {
+   "ID": 203,
+   "NOME": "HAOBAO"
+ },
+ {
+   "ID": 204,
+   "NOME": "HARLEY-DAVIDSON"
+ },
+ {
+   "ID": 205,
+   "NOME": "HARTFORD"
+ },
+ {
+   "ID": 206,
+   "NOME": "HERO"
+ },
+ {
+   "ID": 207,
+   "NOME": "HUSABERG"
+ },
+ {
+   "ID": 208,
+   "NOME": "HUSQVARNA"
+ },
+ {
+   "ID": 209,
+   "NOME": "IROS"
+ },
+ {
+   "ID": 210,
+   "NOME": "JIAPENG VOLCANO"
+ },
+ {
+   "ID": 211,
+   "NOME": "JOHNNYPAG"
+ },
+ {
+   "ID": 212,
+   "NOME": "JONNY"
+ },
+ {
+   "ID": 213,
+   "NOME": "KAHENA"
+ },
+ {
+   "ID": 214,
+   "NOME": "KIMCO"
+ },
+ {
+   "ID": 215,
+   "NOME": "LAQUILA"
+ },
+ {
+   "ID": 216,
+   "NOME": "LANDUM"
+ },
+ {
+   "ID": 217,
+   "NOME": "LAVRALE"
+ },
+ {
+   "ID": 218,
+   "NOME": "LERIVO"
+ },
+ {
+   "ID": 219,
+   "NOME": "LON-V"
+ },
+ {
+   "ID": 220,
+   "NOME": "TRICICLO"
+ },
+ {
+   "ID": 221,
+   "NOME": "MALAGUTI"
+ },
+ {
+   "ID": 222,
+   "NOME": "MIZA"
+ },
+ {
+   "ID": 223,
+   "NOME": "MOTO GUZZI"
+ },
+ {
+   "ID": 224,
+   "NOME": "MRX"
+ },
+ {
+   "ID": 225,
+   "NOME": "MV AUGUSTA"
+ },
+ {
+   "ID": 226,
+   "NOME": "MVK"
+ },
+ {
+   "ID": 227,
+   "NOME": "ORCA"
+ },
+ {
+   "ID": 228,
+   "NOME": "PEGASSI"
+ },
+ {
+   "ID": 229,
+   "NOME": "PIAGGIO"
+ },
+ {
+   "ID": 230,
+   "NOME": "REGAL RAPTOR"
+ },
+ {
+   "ID": 231,
+   "NOME": "SANYANG"
+ },
+ {
+   "ID": 232,
+   "NOME": "SIAMOTO"
+ },
+ {
+   "ID": 233,
+   "NOME": "TARGOS"
+ },
+ {
+   "ID": 234,
+   "NOME": "TRAXX"
+ },
+ {
+   "ID": 235,
+   "NOME": "VENTO"
+ },
+ {
+   "ID": 236,
+   "NOME": "WUYANG"
+ },
+ {
+   "ID": 245,
+   "NOME": "GARRA"
+ },
+ {
+   "ID": 246,
+   "NOME": "X MOTOS"
+ },
+ {
+   "ID": 248,
+   "NOME": "TRICKER"
+ },
+ {
+   "ID": 253,
+   "NOME": "LAMBRETA"
+ },
+ {
+   "ID": 261,
+   "NOME": "OUTROS"
+ },
+ {
+   "ID": 269,
+   "NOME": "SCOOTER"
+ },
+ {
+   "ID": 281,
+   "NOME": "ZONGSHEN"
+ },
+ {
+   "ID": 282,
+   "NOME": "BIRELLI"
+ },
+ {
+   "ID": 294,
+   "NOME": "WALK MACHINE"
+ },
+ {
+   "ID": 297,
+   "NOME": "FBM"
+ },
+ {
+   "ID": 299,
+   "NOME": "ARIEL"
+ },
+ {
+   "ID": 340,
+   "NOME": "DUCAR"
+ },
+ {
+   "ID": 341,
+   "NOME": "DITALLY"
+ },
+ {
+   "ID": 342,
+   "NOME": "MARVA"
+ },
+ {
+   "ID": 343,
+   "NOME": "WOLVER"
+ },
+ {
+   "ID": 344,
+   "NOME": "KTM"
+ },
+ {
+   "ID": 347,
+   "NOME": "LEOPARD"
+ },
+ {
+   "ID": 348,
+   "NOME": "JAWA"
+ },
+ {
+   "ID": 349,
+   "NOME": "BULL"
+ },
+ {
+   "ID": 358,
+   "NOME": "CAN-AM"
+ },
+ {
+   "ID": 359,
+   "NOME": "ACELLERA"
+ },
+ {
+   "ID": 483,
+   "NOME": "VICTORY"
+ },
+ {
+   "ID": 484,
+   "NOME": "INDIAN"
+ },
+ {
+   "ID": 532,
+   "NOME": "BRAVAX"
+ },
+ {
+   "ID": 533,
+   "NOME": "GARELLI"
+ }
+]

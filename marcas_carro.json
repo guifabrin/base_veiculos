@@ -1,0 +1,590 @@
+[
+ {
+   "ID": 1,
+   "NOME": "CHEVROLET"
+ },
+ {
+   "ID": 2,
+   "NOME": "VOLKSWAGEN"
+ },
+ {
+   "ID": 3,
+   "NOME": "FIAT"
+ },
+ {
+   "ID": 4,
+   "NOME": "MERCEDES-BENZ"
+ },
+ {
+   "ID": 5,
+   "NOME": "CITROEN"
+ },
+ {
+   "ID": 6,
+   "NOME": "CHANA"
+ },
+ {
+   "ID": 7,
+   "NOME": "HONDA"
+ },
+ {
+   "ID": 8,
+   "NOME": "SUBARU"
+ },
+ {
+   "ID": 10,
+   "NOME": "FERRARI"
+ },
+ {
+   "ID": 11,
+   "NOME": "BUGATTI"
+ },
+ {
+   "ID": 12,
+   "NOME": "LAMBORGHINI"
+ },
+ {
+   "ID": 13,
+   "NOME": "FORD"
+ },
+ {
+   "ID": 14,
+   "NOME": "HYUNDAI"
+ },
+ {
+   "ID": 15,
+   "NOME": "JAC"
+ },
+ {
+   "ID": 16,
+   "NOME": "KIA"
+ },
+ {
+   "ID": 17,
+   "NOME": "GURGEL"
+ },
+ {
+   "ID": 18,
+   "NOME": "DODGE"
+ },
+ {
+   "ID": 19,
+   "NOME": "CHRYSLER"
+ },
+ {
+   "ID": 20,
+   "NOME": "BENTLEY"
+ },
+ {
+   "ID": 21,
+   "NOME": "SSANGYONG"
+ },
+ {
+   "ID": 22,
+   "NOME": "PEUGEOT"
+ },
+ {
+   "ID": 23,
+   "NOME": "TOYOTA"
+ },
+ {
+   "ID": 24,
+   "NOME": "RENAULT"
+ },
+ {
+   "ID": 25,
+   "NOME": "ACURA"
+ },
+ {
+   "ID": 26,
+   "NOME": "ADAMO"
+ },
+ {
+   "ID": 27,
+   "NOME": "AGRALE"
+ },
+ {
+   "ID": 28,
+   "NOME": "ALFA ROMEO"
+ },
+ {
+   "ID": 29,
+   "NOME": "AMERICAR"
+ },
+ {
+   "ID": 31,
+   "NOME": "ASTON MARTIN"
+ },
+ {
+   "ID": 32,
+   "NOME": "AUDI"
+ },
+ {
+   "ID": 34,
+   "NOME": "BEACH"
+ },
+ {
+   "ID": 35,
+   "NOME": "BIANCO"
+ },
+ {
+   "ID": 36,
+   "NOME": "BMW"
+ },
+ {
+   "ID": 37,
+   "NOME": "BORGWARD"
+ },
+ {
+   "ID": 38,
+   "NOME": "BRILLIANCE"
+ },
+ {
+   "ID": 41,
+   "NOME": "BUICK"
+ },
+ {
+   "ID": 42,
+   "NOME": "CBT"
+ },
+ {
+   "ID": 43,
+   "NOME": "NISSAN"
+ },
+ {
+   "ID": 44,
+   "NOME": "CHAMONIX"
+ },
+ {
+   "ID": 46,
+   "NOME": "CHEDA"
+ },
+ {
+   "ID": 47,
+   "NOME": "CHERY"
+ },
+ {
+   "ID": 48,
+   "NOME": "CORD"
+ },
+ {
+   "ID": 49,
+   "NOME": "COYOTE"
+ },
+ {
+   "ID": 50,
+   "NOME": "CROSS LANDER"
+ },
+ {
+   "ID": 51,
+   "NOME": "DAEWOO"
+ },
+ {
+   "ID": 52,
+   "NOME": "DAIHATSU"
+ },
+ {
+   "ID": 53,
+   "NOME": "VOLVO"
+ },
+ {
+   "ID": 54,
+   "NOME": "DE SOTO"
+ },
+ {
+   "ID": 55,
+   "NOME": "DETOMAZO"
+ },
+ {
+   "ID": 56,
+   "NOME": "DELOREAN"
+ },
+ {
+   "ID": 57,
+   "NOME": "DKW-VEMAG"
+ },
+ {
+   "ID": 59,
+   "NOME": "SUZUKI"
+ },
+ {
+   "ID": 60,
+   "NOME": "EAGLE"
+ },
+ {
+   "ID": 61,
+   "NOME": "EFFA"
+ },
+ {
+   "ID": 63,
+   "NOME": "ENGESA"
+ },
+ {
+   "ID": 64,
+   "NOME": "ENVEMO"
+ },
+ {
+   "ID": 65,
+   "NOME": "FARUS"
+ },
+ {
+   "ID": 66,
+   "NOME": "FERCAR"
+ },
+ {
+   "ID": 68,
+   "NOME": "FNM"
+ },
+ {
+   "ID": 69,
+   "NOME": "PONTIAC"
+ },
+ {
+   "ID": 70,
+   "NOME": "PORSCHE"
+ },
+ {
+   "ID": 72,
+   "NOME": "GEO"
+ },
+ {
+   "ID": 74,
+   "NOME": "GRANCAR"
+ },
+ {
+   "ID": 75,
+   "NOME": "GREAT WALL"
+ },
+ {
+   "ID": 76,
+   "NOME": "HAFEI"
+ },
+ {
+   "ID": 78,
+   "NOME": "HOFSTETTER"
+ },
+ {
+   "ID": 79,
+   "NOME": "HUDSON"
+ },
+ {
+   "ID": 80,
+   "NOME": "HUMMER"
+ },
+ {
+   "ID": 82,
+   "NOME": "INFINITI"
+ },
+ {
+   "ID": 83,
+   "NOME": "INTERNATIONAL"
+ },
+ {
+   "ID": 86,
+   "NOME": "JAGUAR"
+ },
+ {
+   "ID": 87,
+   "NOME": "JEEP"
+ },
+ {
+   "ID": 88,
+   "NOME": "JINBEI"
+ },
+ {
+   "ID": 89,
+   "NOME": "JPX"
+ },
+ {
+   "ID": 90,
+   "NOME": "KAISER"
+ },
+ {
+   "ID": 91,
+   "NOME": "KOENIGSEGG"
+ },
+ {
+   "ID": 92,
+   "NOME": "LAUTOMOBILE"
+ },
+ {
+   "ID": 93,
+   "NOME": "LAUTOCRAFT"
+ },
+ {
+   "ID": 94,
+   "NOME": "LADA"
+ },
+ {
+   "ID": 95,
+   "NOME": "LANCIA"
+ },
+ {
+   "ID": 96,
+   "NOME": "LAND ROVER"
+ },
+ {
+   "ID": 97,
+   "NOME": "LEXUS"
+ },
+ {
+   "ID": 98,
+   "NOME": "LIFAN"
+ },
+ {
+   "ID": 99,
+   "NOME": "LINCOLN"
+ },
+ {
+   "ID": 100,
+   "NOME": "LOBINI"
+ },
+ {
+   "ID": 101,
+   "NOME": "LOTUS"
+ },
+ {
+   "ID": 102,
+   "NOME": "MAHINDRA"
+ },
+ {
+   "ID": 104,
+   "NOME": "MASERATI"
+ },
+ {
+   "ID": 106,
+   "NOME": "MATRA"
+ },
+ {
+   "ID": 107,
+   "NOME": "MAYBACH"
+ },
+ {
+   "ID": 108,
+   "NOME": "MAZDA"
+ },
+ {
+   "ID": 109,
+   "NOME": "MENON"
+ },
+ {
+   "ID": 110,
+   "NOME": "MERCURY"
+ },
+ {
+   "ID": 111,
+   "NOME": "MITSUBISHI"
+ },
+ {
+   "ID": 112,
+   "NOME": "MG"
+ },
+ {
+   "ID": 113,
+   "NOME": "MINI"
+ },
+ {
+   "ID": 114,
+   "NOME": "MIURA"
+ },
+ {
+   "ID": 115,
+   "NOME": "MORRIS"
+ },
+ {
+   "ID": 116,
+   "NOME": "MP LAFER"
+ },
+ {
+   "ID": 117,
+   "NOME": "MPLM"
+ },
+ {
+   "ID": 118,
+   "NOME": "NEWTRACK"
+ },
+ {
+   "ID": 119,
+   "NOME": "NISSIN"
+ },
+ {
+   "ID": 120,
+   "NOME": "OLDSMOBILE"
+ },
+ {
+   "ID": 121,
+   "NOME": "PAG"
+ },
+ {
+   "ID": 122,
+   "NOME": "PAGANI"
+ },
+ {
+   "ID": 123,
+   "NOME": "PLYMOUTH"
+ },
+ {
+   "ID": 124,
+   "NOME": "PUMA"
+ },
+ {
+   "ID": 125,
+   "NOME": "RENO"
+ },
+ {
+   "ID": 126,
+   "NOME": "REVA-I"
+ },
+ {
+   "ID": 127,
+   "NOME": "ROLLS-ROYCE"
+ },
+ {
+   "ID": 129,
+   "NOME": "ROMI"
+ },
+ {
+   "ID": 130,
+   "NOME": "SEAT"
+ },
+ {
+   "ID": 131,
+   "NOME": "UTILITARIOS AGRICOLAS"
+ },
+ {
+   "ID": 132,
+   "NOME": "SHINERAY"
+ },
+ {
+   "ID": 137,
+   "NOME": "SAAB"
+ },
+ {
+   "ID": 139,
+   "NOME": "SHORT"
+ },
+ {
+   "ID": 141,
+   "NOME": "SIMCA"
+ },
+ {
+   "ID": 142,
+   "NOME": "SMART"
+ },
+ {
+   "ID": 143,
+   "NOME": "SPYKER"
+ },
+ {
+   "ID": 144,
+   "NOME": "STANDARD"
+ },
+ {
+   "ID": 145,
+   "NOME": "STUDEBAKER"
+ },
+ {
+   "ID": 146,
+   "NOME": "TAC"
+ },
+ {
+   "ID": 147,
+   "NOME": "TANGER"
+ },
+ {
+   "ID": 148,
+   "NOME": "TRIUMPH"
+ },
+ {
+   "ID": 149,
+   "NOME": "TROLLER"
+ },
+ {
+   "ID": 150,
+   "NOME": "UNIMOG"
+ },
+ {
+   "ID": 154,
+   "NOME": "WIESMANN"
+ },
+ {
+   "ID": 155,
+   "NOME": "CADILLAC"
+ },
+ {
+   "ID": 156,
+   "NOME": "AM GEN"
+ },
+ {
+   "ID": 157,
+   "NOME": "BUGGY"
+ },
+ {
+   "ID": 158,
+   "NOME": "WILLYS OVERLAND"
+ },
+ {
+   "ID": 161,
+   "NOME": "KASEA"
+ },
+ {
+   "ID": 162,
+   "NOME": "SATURN"
+ },
+ {
+   "ID": 163,
+   "NOME": "SWELL MINI"
+ },
+ {
+   "ID": 175,
+   "NOME": "SKODA"
+ },
+ {
+   "ID": 239,
+   "NOME": "KARMANN GHIA"
+ },
+ {
+   "ID": 254,
+   "NOME": "KART"
+ },
+ {
+   "ID": 258,
+   "NOME": "HANOMAG"
+ },
+ {
+   "ID": 261,
+   "NOME": "OUTROS"
+ },
+ {
+   "ID": 265,
+   "NOME": "HILLMAN"
+ },
+ {
+   "ID": 288,
+   "NOME": "HRG"
+ },
+ {
+   "ID": 295,
+   "NOME": "GAIOLA"
+ },
+ {
+   "ID": 338,
+   "NOME": "TATA"
+ },
+ {
+   "ID": 341,
+   "NOME": "DITALLY"
+ },
+ {
+   "ID": 345,
+   "NOME": "RELY"
+ },
+ {
+   "ID": 346,
+   "NOME": "MCLAREN"
+ },
+ {
+   "ID": 534,
+   "NOME": "GEELY"
+ }
+]

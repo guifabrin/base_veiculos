@@ -1,0 +1,4287 @@
+[
+ {
+   "ID": 754,
+   "IDMARCA": 7,
+   "NOME": "BIZ"
+ },
+ {
+   "ID": 761,
+   "IDMARCA": 7,
+   "NOME": "CB 300R"
+ },
+ {
+   "ID": 763,
+   "IDMARCA": 7,
+   "NOME": "CB 400"
+ },
+ {
+   "ID": 764,
+   "IDMARCA": 7,
+   "NOME": "CB 500"
+ },
+ {
+   "ID": 765,
+   "IDMARCA": 7,
+   "NOME": "CB 600 HORNET"
+ },
+ {
+   "ID": 766,
+   "IDMARCA": 7,
+   "NOME": "CBR 1000F"
+ },
+ {
+   "ID": 767,
+   "IDMARCA": 7,
+   "NOME": "FIREBLADE CBR"
+ },
+ {
+   "ID": 768,
+   "IDMARCA": 7,
+   "NOME": "CBR 450"
+ },
+ {
+   "ID": 769,
+   "IDMARCA": 7,
+   "NOME": "CBR 600"
+ },
+ {
+   "ID": 771,
+   "IDMARCA": 7,
+   "NOME": "TWISTER CBX 250"
+ },
+ {
+   "ID": 772,
+   "IDMARCA": 7,
+   "NOME": "CBX 750F"
+ },
+ {
+   "ID": 773,
+   "IDMARCA": 7,
+   "NOME": "CG FAN"
+ },
+ {
+   "ID": 774,
+   "IDMARCA": 7,
+   "NOME": "CG TITAN"
+ },
+ {
+   "ID": 777,
+   "IDMARCA": 135,
+   "NOME": "CRYPTON T115"
+ },
+ {
+   "ID": 778,
+   "IDMARCA": 133,
+   "NOME": "CRZ"
+ },
+ {
+   "ID": 779,
+   "IDMARCA": 59,
+   "NOME": "V-STROM DL"
+ },
+ {
+   "ID": 780,
+   "IDMARCA": 135,
+   "NOME": "DT 200"
+ },
+ {
+   "ID": 781,
+   "IDMARCA": 27,
+   "NOME": "ELEFANTRE"
+ },
+ {
+   "ID": 783,
+   "IDMARCA": 140,
+   "NOME": "FUTURE"
+ },
+ {
+   "ID": 785,
+   "IDMARCA": 136,
+   "NOME": "GR 500"
+ },
+ {
+   "ID": 786,
+   "IDMARCA": 136,
+   "NOME": "GRI 50"
+ },
+ {
+   "ID": 787,
+   "IDMARCA": 59,
+   "NOME": "GSX"
+ },
+ {
+   "ID": 788,
+   "IDMARCA": 59,
+   "NOME": "GSX-R GIXXER/SRAD"
+ },
+ {
+   "ID": 791,
+   "IDMARCA": 135,
+   "NOME": "FAZER YS250"
+ },
+ {
+   "ID": 792,
+   "IDMARCA": 135,
+   "NOME": "FACTOR YBR125"
+ },
+ {
+   "ID": 796,
+   "IDMARCA": 135,
+   "NOME": "YZF R1"
+ },
+ {
+   "ID": 800,
+   "IDMARCA": 135,
+   "NOME": "VIRAGO 250"
+ },
+ {
+   "ID": 833,
+   "IDMARCA": 27,
+   "NOME": "CITY"
+ },
+ {
+   "ID": 834,
+   "IDMARCA": 27,
+   "NOME": "DAKAR"
+ },
+ {
+   "ID": 835,
+   "IDMARCA": 27,
+   "NOME": "ELEFANT"
+ },
+ {
+   "ID": 836,
+   "IDMARCA": 27,
+   "NOME": "FORCE"
+ },
+ {
+   "ID": 837,
+   "IDMARCA": 27,
+   "NOME": "JUNIOR"
+ },
+ {
+   "ID": 838,
+   "IDMARCA": 27,
+   "NOME": "SST"
+ },
+ {
+   "ID": 839,
+   "IDMARCA": 27,
+   "NOME": "SUPER CITY"
+ },
+ {
+   "ID": 840,
+   "IDMARCA": 27,
+   "NOME": "SXT"
+ },
+ {
+   "ID": 841,
+   "IDMARCA": 27,
+   "NOME": "TCHAU"
+ },
+ {
+   "ID": 842,
+   "IDMARCA": 177,
+   "NOME": "AME-110"
+ },
+ {
+   "ID": 843,
+   "IDMARCA": 177,
+   "NOME": "AME-150"
+ },
+ {
+   "ID": 844,
+   "IDMARCA": 177,
+   "NOME": "AME-250"
+ },
+ {
+   "ID": 845,
+   "IDMARCA": 177,
+   "NOME": "AME-LX"
+ },
+ {
+   "ID": 846,
+   "IDMARCA": 178,
+   "NOME": "AREA-51"
+ },
+ {
+   "ID": 847,
+   "IDMARCA": 178,
+   "NOME": "CLASSIC"
+ },
+ {
+   "ID": 848,
+   "IDMARCA": 178,
+   "NOME": "LEONARDO"
+ },
+ {
+   "ID": 849,
+   "IDMARCA": 178,
+   "NOME": "MOTO"
+ },
+ {
+   "ID": 850,
+   "IDMARCA": 178,
+   "NOME": "PEGASO"
+ },
+ {
+   "ID": 851,
+   "IDMARCA": 178,
+   "NOME": "RALLY"
+ },
+ {
+   "ID": 852,
+   "IDMARCA": 178,
+   "NOME": "RS"
+ },
+ {
+   "ID": 853,
+   "IDMARCA": 178,
+   "NOME": "RSV MILLE"
+ },
+ {
+   "ID": 854,
+   "IDMARCA": 178,
+   "NOME": "RX"
+ },
+ {
+   "ID": 855,
+   "IDMARCA": 178,
+   "NOME": "SCARABEO"
+ },
+ {
+   "ID": 858,
+   "IDMARCA": 178,
+   "NOME": "SONIC"
+ },
+ {
+   "ID": 859,
+   "IDMARCA": 178,
+   "NOME": "SR RACING"
+ },
+ {
+   "ID": 860,
+   "IDMARCA": 178,
+   "NOME": "SR WWW"
+ },
+ {
+   "ID": 861,
+   "IDMARCA": 179,
+   "NOME": "CALIFFONE"
+ },
+ {
+   "ID": 862,
+   "IDMARCA": 179,
+   "NOME": "MASTER"
+ },
+ {
+   "ID": 863,
+   "IDMARCA": 179,
+   "NOME": "SKEGIA"
+ },
+ {
+   "ID": 864,
+   "IDMARCA": 180,
+   "NOME": "CHAMPION"
+ },
+ {
+   "ID": 865,
+   "IDMARCA": 180,
+   "NOME": "CLASSIC"
+ },
+ {
+   "ID": 866,
+   "IDMARCA": 181,
+   "NOME": "TNT"
+ },
+ {
+   "ID": 869,
+   "IDMARCA": 181,
+   "NOME": "TRE"
+ },
+ {
+   "ID": 870,
+   "IDMARCA": 182,
+   "NOME": "MX-50"
+ },
+ {
+   "ID": 872,
+   "IDMARCA": 183,
+   "NOME": "DB4"
+ },
+ {
+   "ID": 873,
+   "IDMARCA": 183,
+   "NOME": "DB5R"
+ },
+ {
+   "ID": 874,
+   "IDMARCA": 183,
+   "NOME": "DB6"
+ },
+ {
+   "ID": 875,
+   "IDMARCA": 183,
+   "NOME": "DB6R"
+ },
+ {
+   "ID": 876,
+   "IDMARCA": 183,
+   "NOME": "DB7"
+ },
+ {
+   "ID": 877,
+   "IDMARCA": 183,
+   "NOME": "MANTRA"
+ },
+ {
+   "ID": 878,
+   "IDMARCA": 183,
+   "NOME": "SBR8"
+ },
+ {
+   "ID": 879,
+   "IDMARCA": 183,
+   "NOME": "TESI"
+ },
+ {
+   "ID": 882,
+   "IDMARCA": 36,
+   "NOME": "G650GS"
+ },
+ {
+   "ID": 891,
+   "IDMARCA": 36,
+   "NOME": "S1000RR"
+ },
+ {
+   "ID": 892,
+   "IDMARCA": 184,
+   "NOME": "ELEGANT"
+ },
+ {
+   "ID": 893,
+   "IDMARCA": 184,
+   "NOME": "FOSTI"
+ },
+ {
+   "ID": 894,
+   "IDMARCA": 184,
+   "NOME": "PISTA"
+ },
+ {
+   "ID": 895,
+   "IDMARCA": 184,
+   "NOME": "TURBO"
+ },
+ {
+   "ID": 896,
+   "IDMARCA": 184,
+   "NOME": "ZANELLA"
+ },
+ {
+   "ID": 897,
+   "IDMARCA": 185,
+   "NOME": "YB"
+ },
+ {
+   "ID": 898,
+   "IDMARCA": 186,
+   "NOME": "CAN-AM"
+ },
+ {
+   "ID": 900,
+   "IDMARCA": 187,
+   "NOME": "1125"
+ },
+ {
+   "ID": 902,
+   "IDMARCA": 187,
+   "NOME": "FIREBOLT"
+ },
+ {
+   "ID": 904,
+   "IDMARCA": 187,
+   "NOME": "LIGHTNING"
+ },
+ {
+   "ID": 905,
+   "IDMARCA": 187,
+   "NOME": "ULYSSES"
+ },
+ {
+   "ID": 906,
+   "IDMARCA": 188,
+   "NOME": "JBR"
+ },
+ {
+   "ID": 908,
+   "IDMARCA": 190,
+   "NOME": "CANYON"
+ },
+ {
+   "ID": 909,
+   "IDMARCA": 190,
+   "NOME": "ELEFANT"
+ },
+ {
+   "ID": 910,
+   "IDMARCA": 190,
+   "NOME": "GRAN CANYON"
+ },
+ {
+   "ID": 911,
+   "IDMARCA": 190,
+   "NOME": "MITO"
+ },
+ {
+   "ID": 912,
+   "IDMARCA": 190,
+   "NOME": "NAVIGATOR"
+ },
+ {
+   "ID": 913,
+   "IDMARCA": 190,
+   "NOME": "PLANET"
+ },
+ {
+   "ID": 914,
+   "IDMARCA": 190,
+   "NOME": "ROADSTER"
+ },
+ {
+   "ID": 915,
+   "IDMARCA": 190,
+   "NOME": "V-RAPTOR"
+ },
+ {
+   "ID": 916,
+   "IDMARCA": 190,
+   "NOME": "W-16"
+ },
+ {
+   "ID": 917,
+   "IDMARCA": 191,
+   "NOME": "MOBILETE"
+ },
+ {
+   "ID": 919,
+   "IDMARCA": 192,
+   "NOME": "ALTINO"
+ },
+ {
+   "ID": 920,
+   "IDMARCA": 192,
+   "NOME": "MESSAGE"
+ },
+ {
+   "ID": 921,
+   "IDMARCA": 192,
+   "NOME": "VC"
+ },
+ {
+   "ID": 922,
+   "IDMARCA": 192,
+   "NOME": "VF"
+ },
+ {
+   "ID": 923,
+   "IDMARCA": 192,
+   "NOME": "VS"
+ },
+ {
+   "ID": 924,
+   "IDMARCA": 192,
+   "NOME": "VT"
+ },
+ {
+   "ID": 925,
+   "IDMARCA": 192,
+   "NOME": "VX"
+ },
+ {
+   "ID": 926,
+   "IDMARCA": 193,
+   "NOME": "APACHE"
+ },
+ {
+   "ID": 927,
+   "IDMARCA": 193,
+   "NOME": "CITYCOM"
+ },
+ {
+   "ID": 928,
+   "IDMARCA": 193,
+   "NOME": "KANSAS"
+ },
+ {
+   "ID": 929,
+   "IDMARCA": 193,
+   "NOME": "LASER"
+ },
+ {
+   "ID": 930,
+   "IDMARCA": 193,
+   "NOME": "NEXT"
+ },
+ {
+   "ID": 931,
+   "IDMARCA": 193,
+   "NOME": "RIVA"
+ },
+ {
+   "ID": 932,
+   "IDMARCA": 193,
+   "NOME": "ROADWIN"
+ },
+ {
+   "ID": 933,
+   "IDMARCA": 193,
+   "NOME": "SMART"
+ },
+ {
+   "ID": 934,
+   "IDMARCA": 193,
+   "NOME": "SPEED"
+ },
+ {
+   "ID": 935,
+   "IDMARCA": 193,
+   "NOME": "SUPER"
+ },
+ {
+   "ID": 936,
+   "IDMARCA": 193,
+   "NOME": "ZIG"
+ },
+ {
+   "ID": 937,
+   "IDMARCA": 194,
+   "NOME": "DY100-31"
+ },
+ {
+   "ID": 938,
+   "IDMARCA": 194,
+   "NOME": "DY110-20"
+ },
+ {
+   "ID": 939,
+   "IDMARCA": 194,
+   "NOME": "DY125-18"
+ },
+ {
+   "ID": 940,
+   "IDMARCA": 194,
+   "NOME": "DY125-36A"
+ },
+ {
+   "ID": 941,
+   "IDMARCA": 194,
+   "NOME": "DY125-37"
+ },
+ {
+   "ID": 942,
+   "IDMARCA": 194,
+   "NOME": "DY125-5"
+ },
+ {
+   "ID": 943,
+   "IDMARCA": 194,
+   "NOME": "DY125-52"
+ },
+ {
+   "ID": 944,
+   "IDMARCA": 194,
+   "NOME": "DY150-12"
+ },
+ {
+   "ID": 945,
+   "IDMARCA": 194,
+   "NOME": "DY200"
+ },
+ {
+   "ID": 946,
+   "IDMARCA": 195,
+   "NOME": "SUMMER"
+ },
+ {
+   "ID": 947,
+   "IDMARCA": 195,
+   "NOME": "DY125-8"
+ },
+ {
+   "ID": 948,
+   "IDMARCA": 195,
+   "NOME": "SPACE"
+ },
+ {
+   "ID": 949,
+   "IDMARCA": 195,
+   "NOME": "PHANTON"
+ },
+ {
+   "ID": 950,
+   "IDMARCA": 195,
+   "NOME": "CITY"
+ },
+ {
+   "ID": 951,
+   "IDMARCA": 195,
+   "NOME": "DY150GY"
+ },
+ {
+   "ID": 952,
+   "IDMARCA": 195,
+   "NOME": "CARGO 150"
+ },
+ {
+   "ID": 953,
+   "IDMARCA": 195,
+   "NOME": "CARGO 200"
+ },
+ {
+   "ID": 954,
+   "IDMARCA": 195,
+   "NOME": "DY250-2"
+ },
+ {
+   "ID": 955,
+   "IDMARCA": 196,
+   "NOME": "ATLANTIS"
+ },
+ {
+   "ID": 956,
+   "IDMARCA": 196,
+   "NOME": "GPR"
+ },
+ {
+   "ID": 957,
+   "IDMARCA": 196,
+   "NOME": "PREDATOR"
+ },
+ {
+   "ID": 958,
+   "IDMARCA": 196,
+   "NOME": "RED BULLET"
+ },
+ {
+   "ID": 959,
+   "IDMARCA": 196,
+   "NOME": "REPLICAS"
+ },
+ {
+   "ID": 960,
+   "IDMARCA": 196,
+   "NOME": "SENDA"
+ },
+ {
+   "ID": 961,
+   "IDMARCA": 197,
+   "NOME": "1098"
+ },
+ {
+   "ID": 962,
+   "IDMARCA": 197,
+   "NOME": "1198"
+ },
+ {
+   "ID": 963,
+   "IDMARCA": 197,
+   "NOME": "749"
+ },
+ {
+   "ID": 964,
+   "IDMARCA": 197,
+   "NOME": "848"
+ },
+ {
+   "ID": 965,
+   "IDMARCA": 197,
+   "NOME": "996"
+ },
+ {
+   "ID": 966,
+   "IDMARCA": 197,
+   "NOME": "998"
+ },
+ {
+   "ID": 967,
+   "IDMARCA": 197,
+   "NOME": "999"
+ },
+ {
+   "ID": 968,
+   "IDMARCA": 197,
+   "NOME": "999R"
+ },
+ {
+   "ID": 969,
+   "IDMARCA": 197,
+   "NOME": "DESMOSEDICI"
+ },
+ {
+   "ID": 970,
+   "IDMARCA": 197,
+   "NOME": "DIAVEL"
+ },
+ {
+   "ID": 971,
+   "IDMARCA": 197,
+   "NOME": "HYPERMOTARD"
+ },
+ {
+   "ID": 972,
+   "IDMARCA": 197,
+   "NOME": "MONSTER"
+ },
+ {
+   "ID": 973,
+   "IDMARCA": 197,
+   "NOME": "MULTISTRADA"
+ },
+ {
+   "ID": 974,
+   "IDMARCA": 197,
+   "NOME": "SPORTCLASSIC"
+ },
+ {
+   "ID": 975,
+   "IDMARCA": 197,
+   "NOME": "SS"
+ },
+ {
+   "ID": 976,
+   "IDMARCA": 197,
+   "NOME": "ST-2"
+ },
+ {
+   "ID": 977,
+   "IDMARCA": 197,
+   "NOME": "ST-4"
+ },
+ {
+   "ID": 978,
+   "IDMARCA": 197,
+   "NOME": "STREETFIGHTER"
+ },
+ {
+   "ID": 979,
+   "IDMARCA": 198,
+   "NOME": "MIRAGE"
+ },
+ {
+   "ID": 980,
+   "IDMARCA": 198,
+   "NOME": "ONE"
+ },
+ {
+   "ID": 981,
+   "IDMARCA": 198,
+   "NOME": "ONE RACING"
+ },
+ {
+   "ID": 984,
+   "IDMARCA": 200,
+   "NOME": "FY100-10A"
+ },
+ {
+   "ID": 985,
+   "IDMARCA": 200,
+   "NOME": "FY125-19"
+ },
+ {
+   "ID": 986,
+   "IDMARCA": 200,
+   "NOME": "FY125-20"
+ },
+ {
+   "ID": 987,
+   "IDMARCA": 200,
+   "NOME": "FY125EY-2"
+ },
+ {
+   "ID": 988,
+   "IDMARCA": 200,
+   "NOME": "FY125Y-3"
+ },
+ {
+   "ID": 989,
+   "IDMARCA": 200,
+   "NOME": "FY150-3"
+ },
+ {
+   "ID": 990,
+   "IDMARCA": 200,
+   "NOME": "FY150T-18"
+ },
+ {
+   "ID": 991,
+   "IDMARCA": 200,
+   "NOME": "FY250"
+ },
+ {
+   "ID": 992,
+   "IDMARCA": 136,
+   "NOME": "GR08T4"
+ },
+ {
+   "ID": 993,
+   "IDMARCA": 136,
+   "NOME": "GR 125S/ST"
+ },
+ {
+   "ID": 995,
+   "IDMARCA": 136,
+   "NOME": "GR125T3"
+ },
+ {
+   "ID": 996,
+   "IDMARCA": 136,
+   "NOME": "GR125U"
+ },
+ {
+   "ID": 997,
+   "IDMARCA": 136,
+   "NOME": "GR 125Z"
+ },
+ {
+   "ID": 998,
+   "IDMARCA": 136,
+   "NOME": "GR 150P/PI"
+ },
+ {
+   "ID": 1000,
+   "IDMARCA": 136,
+   "NOME": "GR150ST"
+ },
+ {
+   "ID": 1001,
+   "IDMARCA": 136,
+   "NOME": "GR150T3"
+ },
+ {
+   "ID": 1002,
+   "IDMARCA": 136,
+   "NOME": "GR150TI"
+ },
+ {
+   "ID": 1003,
+   "IDMARCA": 136,
+   "NOME": "GR150U"
+ },
+ {
+   "ID": 1004,
+   "IDMARCA": 136,
+   "NOME": "GR250T3"
+ },
+ {
+   "ID": 1005,
+   "IDMARCA": 201,
+   "NOME": "ENDUCROSS"
+ },
+ {
+   "ID": 1006,
+   "IDMARCA": 201,
+   "NOME": "ROOKIE ENDURO"
+ },
+ {
+   "ID": 1007,
+   "IDMARCA": 201,
+   "NOME": "BOY"
+ },
+ {
+   "ID": 1008,
+   "IDMARCA": 201,
+   "NOME": "MC"
+ },
+ {
+   "ID": 1009,
+   "IDMARCA": 201,
+   "NOME": "PAMPERA"
+ },
+ {
+   "ID": 1010,
+   "IDMARCA": 201,
+   "NOME": "TX BOY"
+ },
+ {
+   "ID": 1011,
+   "IDMARCA": 201,
+   "NOME": "TXT"
+ },
+ {
+   "ID": 1012,
+   "IDMARCA": 201,
+   "NOME": "TXT ROOKIE"
+ },
+ {
+   "ID": 1013,
+   "IDMARCA": 202,
+   "NOME": "EASY"
+ },
+ {
+   "ID": 1014,
+   "IDMARCA": 202,
+   "NOME": "RUNNER"
+ },
+ {
+   "ID": 1015,
+   "IDMARCA": 202,
+   "NOME": "SAFARI"
+ },
+ {
+   "ID": 1016,
+   "IDMARCA": 202,
+   "NOME": "SPORT"
+ },
+ {
+   "ID": 1018,
+   "IDMARCA": 203,
+   "NOME": "HB-110"
+ },
+ {
+   "ID": 1019,
+   "IDMARCA": 203,
+   "NOME": "HB-125"
+ },
+ {
+   "ID": 1020,
+   "IDMARCA": 203,
+   "NOME": "HB-150"
+ },
+ {
+   "ID": 1022,
+   "IDMARCA": 204,
+   "NOME": "SOFTAIL"
+ },
+ {
+   "ID": 1026,
+   "IDMARCA": 204,
+   "NOME": "TOURING ROAD KING"
+ },
+ {
+   "ID": 1027,
+   "IDMARCA": 204,
+   "NOME": "TOURING ELECTRA GLIDE"
+ },
+ {
+   "ID": 1028,
+   "IDMARCA": 204,
+   "NOME": "DYNA"
+ },
+ {
+   "ID": 1038,
+   "IDMARCA": 204,
+   "NOME": "V-ROD"
+ },
+ {
+   "ID": 1041,
+   "IDMARCA": 205,
+   "NOME": "LEGION"
+ },
+ {
+   "ID": 1042,
+   "IDMARCA": 206,
+   "NOME": "ANKUR"
+ },
+ {
+   "ID": 1043,
+   "IDMARCA": 206,
+   "NOME": "PUCH"
+ },
+ {
+   "ID": 1044,
+   "IDMARCA": 206,
+   "NOME": "STREAM"
+ },
+ {
+   "ID": 1045,
+   "IDMARCA": 7,
+   "NOME": "AMERICA"
+ },
+ {
+   "ID": 1047,
+   "IDMARCA": 7,
+   "NOME": "CB 1000R"
+ },
+ {
+   "ID": 1048,
+   "IDMARCA": 7,
+   "NOME": "CB 1300"
+ },
+ {
+   "ID": 1049,
+   "IDMARCA": 7,
+   "NOME": "SUPERBLACKBIRD CBR 1100XX"
+ },
+ {
+   "ID": 1050,
+   "IDMARCA": 7,
+   "NOME": "CBR 250"
+ },
+ {
+   "ID": 1052,
+   "IDMARCA": 7,
+   "NOME": "AERO CBX 150"
+ },
+ {
+   "ID": 1053,
+   "IDMARCA": 7,
+   "NOME": "STRADA CBX 200"
+ },
+ {
+   "ID": 1054,
+   "IDMARCA": 7,
+   "NOME": "CH 125R"
+ },
+ {
+   "ID": 1055,
+   "IDMARCA": 7,
+   "NOME": "CR 85"
+ },
+ {
+   "ID": 1061,
+   "IDMARCA": 7,
+   "NOME": "GL GOLD WING"
+ },
+ {
+   "ID": 1062,
+   "IDMARCA": 7,
+   "NOME": "LEAD"
+ },
+ {
+   "ID": 1063,
+   "IDMARCA": 7,
+   "NOME": "MAGNA VF 750C"
+ },
+ {
+   "ID": 1064,
+   "IDMARCA": 7,
+   "NOME": "NX 200/250"
+ },
+ {
+   "ID": 1066,
+   "IDMARCA": 7,
+   "NOME": "NX 350 SAHARA"
+ },
+ {
+   "ID": 1067,
+   "IDMARCA": 7,
+   "NOME": "NX 400 FALCON"
+ },
+ {
+   "ID": 1069,
+   "IDMARCA": 7,
+   "NOME": "NXR BROS"
+ },
+ {
+   "ID": 1070,
+   "IDMARCA": 7,
+   "NOME": "POP 100"
+ },
+ {
+   "ID": 1074,
+   "IDMARCA": 7,
+   "NOME": "SUPER HAWK"
+ },
+ {
+   "ID": 1075,
+   "IDMARCA": 7,
+   "NOME": "TRX"
+ },
+ {
+   "ID": 1077,
+   "IDMARCA": 7,
+   "NOME": "VALKYRIE"
+ },
+ {
+   "ID": 1078,
+   "IDMARCA": 7,
+   "NOME": "VFR 1200"
+ },
+ {
+   "ID": 1083,
+   "IDMARCA": 7,
+   "NOME": "VTX"
+ },
+ {
+   "ID": 1084,
+   "IDMARCA": 7,
+   "NOME": "VARADERO XL 1000V"
+ },
+ {
+   "ID": 1085,
+   "IDMARCA": 7,
+   "NOME": "XL"
+ },
+ {
+   "ID": 1086,
+   "IDMARCA": 7,
+   "NOME": "XL 700V TRANSALP"
+ },
+ {
+   "ID": 1087,
+   "IDMARCA": 7,
+   "NOME": "XLR"
+ },
+ {
+   "ID": 1088,
+   "IDMARCA": 7,
+   "NOME": "XLX"
+ },
+ {
+   "ID": 1089,
+   "IDMARCA": 7,
+   "NOME": "VLR 350"
+ },
+ {
+   "ID": 1091,
+   "IDMARCA": 7,
+   "NOME": "XR"
+ },
+ {
+   "ID": 1092,
+   "IDMARCA": 7,
+   "NOME": "TORNADO XR 250"
+ },
+ {
+   "ID": 1094,
+   "IDMARCA": 7,
+   "NOME": "XRE 300"
+ },
+ {
+   "ID": 1095,
+   "IDMARCA": 207,
+   "NOME": "FE"
+ },
+ {
+   "ID": 1098,
+   "IDMARCA": 208,
+   "NOME": "CR"
+ },
+ {
+   "ID": 1099,
+   "IDMARCA": 208,
+   "NOME": "HUSQY"
+ },
+ {
+   "ID": 1100,
+   "IDMARCA": 208,
+   "NOME": "SM"
+ },
+ {
+   "ID": 1101,
+   "IDMARCA": 208,
+   "NOME": "SMR"
+ },
+ {
+   "ID": 1102,
+   "IDMARCA": 208,
+   "NOME": "TC"
+ },
+ {
+   "ID": 1103,
+   "IDMARCA": 208,
+   "NOME": "TE"
+ },
+ {
+   "ID": 1104,
+   "IDMARCA": 208,
+   "NOME": "WR"
+ },
+ {
+   "ID": 1105,
+   "IDMARCA": 208,
+   "NOME": "WRE"
+ },
+ {
+   "ID": 1106,
+   "IDMARCA": 209,
+   "NOME": "ACTION"
+ },
+ {
+   "ID": 1107,
+   "IDMARCA": 209,
+   "NOME": "BRAVE"
+ },
+ {
+   "ID": 1108,
+   "IDMARCA": 209,
+   "NOME": "MATRIX"
+ },
+ {
+   "ID": 1109,
+   "IDMARCA": 209,
+   "NOME": "MOVING"
+ },
+ {
+   "ID": 1110,
+   "IDMARCA": 209,
+   "NOME": "ONE"
+ },
+ {
+   "ID": 1111,
+   "IDMARCA": 209,
+   "NOME": "VINTAGE"
+ },
+ {
+   "ID": 1112,
+   "IDMARCA": 209,
+   "NOME": "WARRIOR"
+ },
+ {
+   "ID": 1113,
+   "IDMARCA": 210,
+   "NOME": "JP"
+ },
+ {
+   "ID": 1115,
+   "IDMARCA": 211,
+   "NOME": "BARHOG"
+ },
+ {
+   "ID": 1116,
+   "IDMARCA": 211,
+   "NOME": "PROSTREET"
+ },
+ {
+   "ID": 1117,
+   "IDMARCA": 211,
+   "NOME": "SPYDER"
+ },
+ {
+   "ID": 1118,
+   "IDMARCA": 212,
+   "NOME": "ATLANTIC"
+ },
+ {
+   "ID": 1119,
+   "IDMARCA": 212,
+   "NOME": "HYPE"
+ },
+ {
+   "ID": 1120,
+   "IDMARCA": 212,
+   "NOME": "JONNY"
+ },
+ {
+   "ID": 1121,
+   "IDMARCA": 212,
+   "NOME": "ORBIT"
+ },
+ {
+   "ID": 1122,
+   "IDMARCA": 212,
+   "NOME": "PEGASUS"
+ },
+ {
+   "ID": 1123,
+   "IDMARCA": 212,
+   "NOME": "QUICK"
+ },
+ {
+   "ID": 1124,
+   "IDMARCA": 212,
+   "NOME": "TR"
+ },
+ {
+   "ID": 1126,
+   "IDMARCA": 213,
+   "NOME": "TOP"
+ },
+ {
+   "ID": 1127,
+   "IDMARCA": 213,
+   "NOME": "DUAL"
+ },
+ {
+   "ID": 1130,
+   "IDMARCA": 133,
+   "NOME": "COMET GT 650"
+ },
+ {
+   "ID": 1131,
+   "IDMARCA": 133,
+   "NOME": "COMET GT-R 650"
+ },
+ {
+   "ID": 1132,
+   "IDMARCA": 133,
+   "NOME": "CRUISE"
+ },
+ {
+   "ID": 1134,
+   "IDMARCA": 133,
+   "NOME": "ERO"
+ },
+ {
+   "ID": 1135,
+   "IDMARCA": 133,
+   "NOME": "FLASH"
+ },
+ {
+   "ID": 1136,
+   "IDMARCA": 133,
+   "NOME": "FURIA"
+ },
+ {
+   "ID": 1137,
+   "IDMARCA": 133,
+   "NOME": "GF"
+ },
+ {
+   "ID": 1139,
+   "IDMARCA": 133,
+   "NOME": "MAGIK"
+ },
+ {
+   "ID": 1140,
+   "IDMARCA": 133,
+   "NOME": "MIDAS"
+ },
+ {
+   "ID": 1141,
+   "IDMARCA": 133,
+   "NOME": "MIRAGE"
+ },
+ {
+   "ID": 1142,
+   "IDMARCA": 133,
+   "NOME": "MOTOKAR"
+ },
+ {
+   "ID": 1143,
+   "IDMARCA": 133,
+   "NOME": "PRIMA"
+ },
+ {
+   "ID": 1144,
+   "IDMARCA": 133,
+   "NOME": "RX"
+ },
+ {
+   "ID": 1145,
+   "IDMARCA": 133,
+   "NOME": "SETA"
+ },
+ {
+   "ID": 1146,
+   "IDMARCA": 133,
+   "NOME": "SOFT"
+ },
+ {
+   "ID": 1147,
+   "IDMARCA": 133,
+   "NOME": "SUPER CAB"
+ },
+ {
+   "ID": 1148,
+   "IDMARCA": 133,
+   "NOME": "TN"
+ },
+ {
+   "ID": 1149,
+   "IDMARCA": 133,
+   "NOME": "WAY"
+ },
+ {
+   "ID": 1150,
+   "IDMARCA": 133,
+   "NOME": "WIN"
+ },
+ {
+   "ID": 1151,
+   "IDMARCA": 170,
+   "NOME": "AVAJET"
+ },
+ {
+   "ID": 1152,
+   "IDMARCA": 170,
+   "NOME": "CONCOURS"
+ },
+ {
+   "ID": 1153,
+   "IDMARCA": 170,
+   "NOME": "D-TRACKER"
+ },
+ {
+   "ID": 1154,
+   "IDMARCA": 170,
+   "NOME": "ER-6N"
+ },
+ {
+   "ID": 1156,
+   "IDMARCA": 170,
+   "NOME": "KLX 110/140"
+ },
+ {
+   "ID": 1157,
+   "IDMARCA": 170,
+   "NOME": "KX 100/125"
+ },
+ {
+   "ID": 1158,
+   "IDMARCA": 170,
+   "NOME": "KZ"
+ },
+ {
+   "ID": 1159,
+   "IDMARCA": 170,
+   "NOME": "MAXI"
+ },
+ {
+   "ID": 1160,
+   "IDMARCA": 170,
+   "NOME": "NINJA 250"
+ },
+ {
+   "ID": 1161,
+   "IDMARCA": 170,
+   "NOME": "VERSYS"
+ },
+ {
+   "ID": 1162,
+   "IDMARCA": 170,
+   "NOME": "VOYAGER"
+ },
+ {
+   "ID": 1163,
+   "IDMARCA": 170,
+   "NOME": "VULCAN"
+ },
+ {
+   "ID": 1166,
+   "IDMARCA": 170,
+   "NOME": "ZZR"
+ },
+ {
+   "ID": 1167,
+   "IDMARCA": 214,
+   "NOME": "DJW"
+ },
+ {
+   "ID": 1168,
+   "IDMARCA": 214,
+   "NOME": "MBOY"
+ },
+ {
+   "ID": 1169,
+   "IDMARCA": 214,
+   "NOME": "PEOPLE"
+ },
+ {
+   "ID": 1170,
+   "IDMARCA": 214,
+   "NOME": "ZING"
+ },
+ {
+   "ID": 1182,
+   "IDMARCA": 215,
+   "NOME": "AKROS"
+ },
+ {
+   "ID": 1183,
+   "IDMARCA": 215,
+   "NOME": "ERGON"
+ },
+ {
+   "ID": 1184,
+   "IDMARCA": 215,
+   "NOME": "NIX"
+ },
+ {
+   "ID": 1186,
+   "IDMARCA": 216,
+   "NOME": "MOTO TRUCK"
+ },
+ {
+   "ID": 1187,
+   "IDMARCA": 217,
+   "NOME": "QUATTOR"
+ },
+ {
+   "ID": 1188,
+   "IDMARCA": 218,
+   "NOME": "FORMIGAO"
+ },
+ {
+   "ID": 1190,
+   "IDMARCA": 98,
+   "NOME": "CARGO"
+ },
+ {
+   "ID": 1191,
+   "IDMARCA": 219,
+   "NOME": "DE LUXE"
+ },
+ {
+   "ID": 1192,
+   "IDMARCA": 219,
+   "NOME": "E RETRO"
+ },
+ {
+   "ID": 1193,
+   "IDMARCA": 219,
+   "NOME": "LY"
+ },
+ {
+   "ID": 1194,
+   "IDMARCA": 220,
+   "NOME": "TRICICLO"
+ },
+ {
+   "ID": 1195,
+   "IDMARCA": 221,
+   "NOME": "CIAK"
+ },
+ {
+   "ID": 1196,
+   "IDMARCA": 221,
+   "NOME": "SPIDER"
+ },
+ {
+   "ID": 1197,
+   "IDMARCA": 222,
+   "NOME": "DRAGO"
+ },
+ {
+   "ID": 1198,
+   "IDMARCA": 222,
+   "NOME": "EASY"
+ },
+ {
+   "ID": 1199,
+   "IDMARCA": 222,
+   "NOME": "FAST"
+ },
+ {
+   "ID": 1200,
+   "IDMARCA": 222,
+   "NOME": "SKEMA"
+ },
+ {
+   "ID": 1201,
+   "IDMARCA": 222,
+   "NOME": "VITE"
+ },
+ {
+   "ID": 1202,
+   "IDMARCA": 223,
+   "NOME": "CALIFORNIA"
+ },
+ {
+   "ID": 1203,
+   "IDMARCA": 223,
+   "NOME": "QUOTA"
+ },
+ {
+   "ID": 1204,
+   "IDMARCA": 223,
+   "NOME": "V11"
+ },
+ {
+   "ID": 1205,
+   "IDMARCA": 223,
+   "NOME": "LE MANS"
+ },
+ {
+   "ID": 1206,
+   "IDMARCA": 224,
+   "NOME": "230R"
+ },
+ {
+   "ID": 1207,
+   "IDMARCA": 225,
+   "NOME": "BRUTALE"
+ },
+ {
+   "ID": 1208,
+   "IDMARCA": 225,
+   "NOME": "F4"
+ },
+ {
+   "ID": 1209,
+   "IDMARCA": 226,
+   "NOME": "BIG FORCE"
+ },
+ {
+   "ID": 1210,
+   "IDMARCA": 226,
+   "NOME": "BLACK STAR"
+ },
+ {
+   "ID": 1211,
+   "IDMARCA": 226,
+   "NOME": "BRX"
+ },
+ {
+   "ID": 1212,
+   "IDMARCA": 226,
+   "NOME": "DUAL"
+ },
+ {
+   "ID": 1213,
+   "IDMARCA": 226,
+   "NOME": "FENIX GOLD"
+ },
+ {
+   "ID": 1214,
+   "IDMARCA": 226,
+   "NOME": "FOX"
+ },
+ {
+   "ID": 1215,
+   "IDMARCA": 226,
+   "NOME": "GO"
+ },
+ {
+   "ID": 1216,
+   "IDMARCA": 226,
+   "NOME": "HALLEY"
+ },
+ {
+   "ID": 1217,
+   "IDMARCA": 226,
+   "NOME": "FENIX"
+ },
+ {
+   "ID": 1218,
+   "IDMARCA": 226,
+   "NOME": "JURASIC"
+ },
+ {
+   "ID": 1219,
+   "IDMARCA": 226,
+   "NOME": "MA"
+ },
+ {
+   "ID": 1222,
+   "IDMARCA": 226,
+   "NOME": "SIMBA"
+ },
+ {
+   "ID": 1223,
+   "IDMARCA": 226,
+   "NOME": "SPORT"
+ },
+ {
+   "ID": 1224,
+   "IDMARCA": 226,
+   "NOME": "SPYDER"
+ },
+ {
+   "ID": 1225,
+   "IDMARCA": 226,
+   "NOME": "STREET"
+ },
+ {
+   "ID": 1226,
+   "IDMARCA": 226,
+   "NOME": "SUPER"
+ },
+ {
+   "ID": 1227,
+   "IDMARCA": 226,
+   "NOME": "XRT"
+ },
+ {
+   "ID": 1228,
+   "IDMARCA": 227,
+   "NOME": "AX"
+ },
+ {
+   "ID": 1229,
+   "IDMARCA": 227,
+   "NOME": "JC"
+ },
+ {
+   "ID": 1230,
+   "IDMARCA": 227,
+   "NOME": "QM"
+ },
+ {
+   "ID": 1231,
+   "IDMARCA": 228,
+   "NOME": "BR III"
+ },
+ {
+   "ID": 1232,
+   "IDMARCA": 22,
+   "NOME": "BUXY"
+ },
+ {
+   "ID": 1233,
+   "IDMARCA": 22,
+   "NOME": "ELYSEO"
+ },
+ {
+   "ID": 1234,
+   "IDMARCA": 22,
+   "NOME": "SCOOTELEC"
+ },
+ {
+   "ID": 1235,
+   "IDMARCA": 22,
+   "NOME": "SPEEDAKE"
+ },
+ {
+   "ID": 1236,
+   "IDMARCA": 22,
+   "NOME": "SPEEDFIGHT"
+ },
+ {
+   "ID": 1237,
+   "IDMARCA": 22,
+   "NOME": "SQUAB"
+ },
+ {
+   "ID": 1238,
+   "IDMARCA": 22,
+   "NOME": "TREKKER"
+ },
+ {
+   "ID": 1239,
+   "IDMARCA": 22,
+   "NOME": "VIVACITY"
+ },
+ {
+   "ID": 1240,
+   "IDMARCA": 22,
+   "NOME": "ZENITH"
+ },
+ {
+   "ID": 1241,
+   "IDMARCA": 229,
+   "NOME": "BEVERLY"
+ },
+ {
+   "ID": 1242,
+   "IDMARCA": 229,
+   "NOME": "LIBERTY"
+ },
+ {
+   "ID": 1243,
+   "IDMARCA": 229,
+   "NOME": "MP3"
+ },
+ {
+   "ID": 1244,
+   "IDMARCA": 229,
+   "NOME": "NRG"
+ },
+ {
+   "ID": 1245,
+   "IDMARCA": 229,
+   "NOME": "RUNNER"
+ },
+ {
+   "ID": 1246,
+   "IDMARCA": 229,
+   "NOME": "VESPA"
+ },
+ {
+   "ID": 1247,
+   "IDMARCA": 229,
+   "NOME": "ZIP"
+ },
+ {
+   "ID": 1248,
+   "IDMARCA": 230,
+   "NOME": "BLACK JACK"
+ },
+ {
+   "ID": 1249,
+   "IDMARCA": 230,
+   "NOME": "FENIX GOLD"
+ },
+ {
+   "ID": 1250,
+   "IDMARCA": 230,
+   "NOME": "GHOST"
+ },
+ {
+   "ID": 1251,
+   "IDMARCA": 230,
+   "NOME": "SPYDER"
+ },
+ {
+   "ID": 1252,
+   "IDMARCA": 231,
+   "NOME": "ENJOY"
+ },
+ {
+   "ID": 1253,
+   "IDMARCA": 231,
+   "NOME": "HUSKY"
+ },
+ {
+   "ID": 1254,
+   "IDMARCA": 231,
+   "NOME": "PASSING"
+ },
+ {
+   "ID": 1255,
+   "IDMARCA": 132,
+   "NOME": "RACING 200"
+ },
+ {
+   "ID": 1256,
+   "IDMARCA": 232,
+   "NOME": "SCROSS"
+ },
+ {
+   "ID": 1257,
+   "IDMARCA": 140,
+   "NOME": "AKROS"
+ },
+ {
+   "ID": 1258,
+   "IDMARCA": 140,
+   "NOME": "ERGON"
+ },
+ {
+   "ID": 1259,
+   "IDMARCA": 140,
+   "NOME": "FIFTY"
+ },
+ {
+   "ID": 1260,
+   "IDMARCA": 140,
+   "NOME": "HUNTER"
+ },
+ {
+   "ID": 1261,
+   "IDMARCA": 140,
+   "NOME": "MAX"
+ },
+ {
+   "ID": 1262,
+   "IDMARCA": 140,
+   "NOME": "PALIO"
+ },
+ {
+   "ID": 1263,
+   "IDMARCA": 140,
+   "NOME": "PGO"
+ },
+ {
+   "ID": 1264,
+   "IDMARCA": 140,
+   "NOME": "STX"
+ },
+ {
+   "ID": 1265,
+   "IDMARCA": 140,
+   "NOME": "STX MOTARD"
+ },
+ {
+   "ID": 1266,
+   "IDMARCA": 140,
+   "NOME": "SUPER FIFTY"
+ },
+ {
+   "ID": 1267,
+   "IDMARCA": 140,
+   "NOME": "VBLADE"
+ },
+ {
+   "ID": 1268,
+   "IDMARCA": 140,
+   "NOME": "WEB"
+ },
+ {
+   "ID": 1269,
+   "IDMARCA": 140,
+   "NOME": "WEB EVO"
+ },
+ {
+   "ID": 1270,
+   "IDMARCA": 59,
+   "NOME": "ADDRESS"
+ },
+ {
+   "ID": 1272,
+   "IDMARCA": 59,
+   "NOME": "BANDIT 250"
+ },
+ {
+   "ID": 1273,
+   "IDMARCA": 59,
+   "NOME": "BOULEVARD"
+ },
+ {
+   "ID": 1274,
+   "IDMARCA": 59,
+   "NOME": "BURGMAN AN"
+ },
+ {
+   "ID": 1276,
+   "IDMARCA": 59,
+   "NOME": "DR"
+ },
+ {
+   "ID": 1278,
+   "IDMARCA": 59,
+   "NOME": "FREEWIND 650"
+ },
+ {
+   "ID": 1279,
+   "IDMARCA": 59,
+   "NOME": "GS 500"
+ },
+ {
+   "ID": 1280,
+   "IDMARCA": 59,
+   "NOME": "GSR"
+ },
+ {
+   "ID": 1282,
+   "IDMARCA": 59,
+   "NOME": "INTRUDER"
+ },
+ {
+   "ID": 1283,
+   "IDMARCA": 59,
+   "NOME": "KATANA"
+ },
+ {
+   "ID": 1284,
+   "IDMARCA": 59,
+   "NOME": "LETS II"
+ },
+ {
+   "ID": 1285,
+   "IDMARCA": 59,
+   "NOME": "LT"
+ },
+ {
+   "ID": 1286,
+   "IDMARCA": 59,
+   "NOME": "MARAUDER GZ"
+ },
+ {
+   "ID": 1287,
+   "IDMARCA": 59,
+   "NOME": "RF"
+ },
+ {
+   "ID": 1288,
+   "IDMARCA": 59,
+   "NOME": "RM 250"
+ },
+ {
+   "ID": 1289,
+   "IDMARCA": 59,
+   "NOME": "SAVAGE"
+ },
+ {
+   "ID": 1290,
+   "IDMARCA": 59,
+   "NOME": "TL"
+ },
+ {
+   "ID": 1291,
+   "IDMARCA": 59,
+   "NOME": "VX 800"
+ },
+ {
+   "ID": 1292,
+   "IDMARCA": 233,
+   "NOME": "TRIMOTO"
+ },
+ {
+   "ID": 1293,
+   "IDMARCA": 234,
+   "NOME": "CJ"
+ },
+ {
+   "ID": 1294,
+   "IDMARCA": 234,
+   "NOME": "JH"
+ },
+ {
+   "ID": 1295,
+   "IDMARCA": 234,
+   "NOME": "JL"
+ },
+ {
+   "ID": 1296,
+   "IDMARCA": 234,
+   "NOME": "STAR 50"
+ },
+ {
+   "ID": 1297,
+   "IDMARCA": 234,
+   "NOME": "WORK 125"
+ },
+ {
+   "ID": 1298,
+   "IDMARCA": 234,
+   "NOME": "SKY 125"
+ },
+ {
+   "ID": 1299,
+   "IDMARCA": 234,
+   "NOME": "FLY 135"
+ },
+ {
+   "ID": 1300,
+   "IDMARCA": 234,
+   "NOME": "BEST"
+ },
+ {
+   "ID": 1301,
+   "IDMARCA": 148,
+   "NOME": "ADVENTURER"
+ },
+ {
+   "ID": 1302,
+   "IDMARCA": 148,
+   "NOME": "BONNEVILLE"
+ },
+ {
+   "ID": 1303,
+   "IDMARCA": 148,
+   "NOME": "DAYTONA"
+ },
+ {
+   "ID": 1304,
+   "IDMARCA": 148,
+   "NOME": "LEGEND"
+ },
+ {
+   "ID": 1305,
+   "IDMARCA": 148,
+   "NOME": "ROCKET"
+ },
+ {
+   "ID": 1306,
+   "IDMARCA": 148,
+   "NOME": "SCRAMBLER"
+ },
+ {
+   "ID": 1307,
+   "IDMARCA": 148,
+   "NOME": "SPEED TRIPLE"
+ },
+ {
+   "ID": 1308,
+   "IDMARCA": 148,
+   "NOME": "SPRINT"
+ },
+ {
+   "ID": 1309,
+   "IDMARCA": 148,
+   "NOME": "STREET TRIPLE"
+ },
+ {
+   "ID": 1310,
+   "IDMARCA": 148,
+   "NOME": "THRUXTON"
+ },
+ {
+   "ID": 1311,
+   "IDMARCA": 148,
+   "NOME": "THUNDERBIRD"
+ },
+ {
+   "ID": 1312,
+   "IDMARCA": 148,
+   "NOME": "TIGER"
+ },
+ {
+   "ID": 1313,
+   "IDMARCA": 148,
+   "NOME": "TRIDENT"
+ },
+ {
+   "ID": 1314,
+   "IDMARCA": 148,
+   "NOME": "TROPHY"
+ },
+ {
+   "ID": 1315,
+   "IDMARCA": 148,
+   "NOME": "TT-600"
+ },
+ {
+   "ID": 1316,
+   "IDMARCA": 235,
+   "NOME": "REBELLIAN"
+ },
+ {
+   "ID": 1317,
+   "IDMARCA": 235,
+   "NOME": "TRITON"
+ },
+ {
+   "ID": 1318,
+   "IDMARCA": 235,
+   "NOME": "VTHUNDER"
+ },
+ {
+   "ID": 1319,
+   "IDMARCA": 236,
+   "NOME": "WY"
+ },
+ {
+   "ID": 1321,
+   "IDMARCA": 135,
+   "NOME": "AXIS"
+ },
+ {
+   "ID": 1322,
+   "IDMARCA": 135,
+   "NOME": "BWS"
+ },
+ {
+   "ID": 1327,
+   "IDMARCA": 135,
+   "NOME": "JOG"
+ },
+ {
+   "ID": 1328,
+   "IDMARCA": 135,
+   "NOME": "MAJESTY"
+ },
+ {
+   "ID": 1329,
+   "IDMARCA": 135,
+   "NOME": "MT-03"
+ },
+ {
+   "ID": 1331,
+   "IDMARCA": 135,
+   "NOME": "NEO AT"
+ },
+ {
+   "ID": 1333,
+   "IDMARCA": 135,
+   "NOME": "RD 135"
+ },
+ {
+   "ID": 1335,
+   "IDMARCA": 135,
+   "NOME": "ROYAL STAR"
+ },
+ {
+   "ID": 1337,
+   "IDMARCA": 135,
+   "NOME": "TDM"
+ },
+ {
+   "ID": 1338,
+   "IDMARCA": 135,
+   "NOME": "TDR 180"
+ },
+ {
+   "ID": 1339,
+   "IDMARCA": 135,
+   "NOME": "TRX"
+ },
+ {
+   "ID": 1340,
+   "IDMARCA": 135,
+   "NOME": "TT-R"
+ },
+ {
+   "ID": 1341,
+   "IDMARCA": 135,
+   "NOME": "V-MAX 1200"
+ },
+ {
+   "ID": 1342,
+   "IDMARCA": 135,
+   "NOME": "WR 250F"
+ },
+ {
+   "ID": 1344,
+   "IDMARCA": 135,
+   "NOME": "XJR"
+ },
+ {
+   "ID": 1345,
+   "IDMARCA": 135,
+   "NOME": "XT 660R"
+ },
+ {
+   "ID": 1346,
+   "IDMARCA": 135,
+   "NOME": "XTZ 125"
+ },
+ {
+   "ID": 1348,
+   "IDMARCA": 135,
+   "NOME": "MIDNIGHT STAR XVS"
+ },
+ {
+   "ID": 1350,
+   "IDMARCA": 135,
+   "NOME": "YFS"
+ },
+ {
+   "ID": 1363,
+   "IDMARCA": 59,
+   "NOME": "YES EN 125"
+ },
+ {
+   "ID": 1393,
+   "IDMARCA": 7,
+   "NOME": "SHADOW"
+ },
+ {
+   "ID": 1442,
+   "IDMARCA": 246,
+   "NOME": "XM"
+ },
+ {
+   "ID": 1450,
+   "IDMARCA": 253,
+   "NOME": "LAMBRETA"
+ },
+ {
+   "ID": 1518,
+   "IDMARCA": 269,
+   "NOME": "SCOOTER"
+ },
+ {
+   "ID": 1967,
+   "IDMARCA": 176,
+   "NOME": "ATV"
+ },
+ {
+   "ID": 1968,
+   "IDMARCA": 176,
+   "NOME": "JAGUAR"
+ },
+ {
+   "ID": 1970,
+   "IDMARCA": 176,
+   "NOME": "RT"
+ },
+ {
+   "ID": 2011,
+   "IDMARCA": 281,
+   "NOME": "ZS 200"
+ },
+ {
+   "ID": 2012,
+   "IDMARCA": 282,
+   "NOME": "BW 125"
+ },
+ {
+   "ID": 2040,
+   "IDMARCA": 254,
+   "NOME": "KART"
+ },
+ {
+   "ID": 2057,
+   "IDMARCA": 7,
+   "NOME": "DREAM"
+ },
+ {
+   "ID": 2058,
+   "IDMARCA": 135,
+   "NOME": "RX"
+ },
+ {
+   "ID": 2065,
+   "IDMARCA": 294,
+   "NOME": "WALK MACHINE"
+ },
+ {
+   "ID": 2172,
+   "IDMARCA": 7,
+   "NOME": "HERO"
+ },
+ {
+   "ID": 2173,
+   "IDMARCA": 7,
+   "NOME": "NC 700X"
+ },
+ {
+   "ID": 2174,
+   "IDMARCA": 135,
+   "NOME": "DRAG STAR"
+ },
+ {
+   "ID": 2220,
+   "IDMARCA": 170,
+   "NOME": "BAIO"
+ },
+ {
+   "ID": 2221,
+   "IDMARCA": 170,
+   "NOME": "KDX"
+ },
+ {
+   "ID": 2223,
+   "IDMARCA": 59,
+   "NOME": "B-KING GSX 1300"
+ },
+ {
+   "ID": 2227,
+   "IDMARCA": 281,
+   "NOME": "125 ZS"
+ },
+ {
+   "ID": 2285,
+   "IDMARCA": 178,
+   "NOME": "SR"
+ },
+ {
+   "ID": 2286,
+   "IDMARCA": 194,
+   "NOME": "DY50"
+ },
+ {
+   "ID": 2287,
+   "IDMARCA": 212,
+   "NOME": "NAKED"
+ },
+ {
+   "ID": 2288,
+   "IDMARCA": 212,
+   "NOME": "RACER"
+ },
+ {
+   "ID": 2289,
+   "IDMARCA": 212,
+   "NOME": "TEXAS"
+ },
+ {
+   "ID": 2293,
+   "IDMARCA": 7,
+   "NOME": "CRF 110/150"
+ },
+ {
+   "ID": 2316,
+   "IDMARCA": 135,
+   "NOME": "XJ6"
+ },
+ {
+   "ID": 2317,
+   "IDMARCA": 135,
+   "NOME": "LANDER XTZ 250"
+ },
+ {
+   "ID": 2327,
+   "IDMARCA": 135,
+   "NOME": "ALBA"
+ },
+ {
+   "ID": 2328,
+   "IDMARCA": 135,
+   "NOME": "FROG"
+ },
+ {
+   "ID": 2329,
+   "IDMARCA": 135,
+   "NOME": "LIBERO"
+ },
+ {
+   "ID": 2330,
+   "IDMARCA": 135,
+   "NOME": "GLADIATOR"
+ },
+ {
+   "ID": 2331,
+   "IDMARCA": 135,
+   "NOME": "MEST"
+ },
+ {
+   "ID": 2332,
+   "IDMARCA": 135,
+   "NOME": "ECCY"
+ },
+ {
+   "ID": 2333,
+   "IDMARCA": 135,
+   "NOME": "PASSOL"
+ },
+ {
+   "ID": 2334,
+   "IDMARCA": 135,
+   "NOME": "EC-02"
+ },
+ {
+   "ID": 2335,
+   "IDMARCA": 135,
+   "NOME": "YZ 85LW"
+ },
+ {
+   "ID": 2336,
+   "IDMARCA": 135,
+   "NOME": "V-STAR"
+ },
+ {
+   "ID": 2338,
+   "IDMARCA": 135,
+   "NOME": "PAS"
+ },
+ {
+   "ID": 2339,
+   "IDMARCA": 135,
+   "NOME": "AEROX"
+ },
+ {
+   "ID": 2340,
+   "IDMARCA": 135,
+   "NOME": "MORPHOUS"
+ },
+ {
+   "ID": 2341,
+   "IDMARCA": 135,
+   "NOME": "XF50X"
+ },
+ {
+   "ID": 2343,
+   "IDMARCA": 135,
+   "NOME": "LAGEND"
+ },
+ {
+   "ID": 2344,
+   "IDMARCA": 135,
+   "NOME": "TZR"
+ },
+ {
+   "ID": 2345,
+   "IDMARCA": 135,
+   "NOME": "QT50"
+ },
+ {
+   "ID": 2376,
+   "IDMARCA": 234,
+   "NOME": "SHARK"
+ },
+ {
+   "ID": 2391,
+   "IDMARCA": 7,
+   "NOME": "FURY"
+ },
+ {
+   "ID": 2416,
+   "IDMARCA": 7,
+   "NOME": "STUNNER"
+ },
+ {
+   "ID": 2417,
+   "IDMARCA": 7,
+   "NOME": "CB 50"
+ },
+ {
+   "ID": 2419,
+   "IDMARCA": 7,
+   "NOME": "BOLDOR CB 900"
+ },
+ {
+   "ID": 2420,
+   "IDMARCA": 7,
+   "NOME": "CBF 600"
+ },
+ {
+   "ID": 2421,
+   "IDMARCA": 7,
+   "NOME": "CBR 400RR"
+ },
+ {
+   "ID": 2423,
+   "IDMARCA": 7,
+   "NOME": "CBX 1000"
+ },
+ {
+   "ID": 2424,
+   "IDMARCA": 7,
+   "NOME": "CD 125"
+ },
+ {
+   "ID": 2425,
+   "IDMARCA": 7,
+   "NOME": "ML 125"
+ },
+ {
+   "ID": 2426,
+   "IDMARCA": 7,
+   "NOME": "NSR 500"
+ },
+ {
+   "ID": 2428,
+   "IDMARCA": 7,
+   "NOME": "RC"
+ },
+ {
+   "ID": 2430,
+   "IDMARCA": 7,
+   "NOME": "PAN-EUROPEAN ST"
+ },
+ {
+   "ID": 2432,
+   "IDMARCA": 7,
+   "NOME": "TURUNA 125"
+ },
+ {
+   "ID": 2433,
+   "IDMARCA": 7,
+   "NOME": "VTR"
+ },
+ {
+   "ID": 2436,
+   "IDMARCA": 7,
+   "NOME": "AFRICA TWIN XRV 750"
+ },
+ {
+   "ID": 2437,
+   "IDMARCA": 297,
+   "NOME": "MZ 250"
+ },
+ {
+   "ID": 2438,
+   "IDMARCA": 297,
+   "NOME": "KAPRA"
+ },
+ {
+   "ID": 2439,
+   "IDMARCA": 297,
+   "NOME": "RALLYE"
+ },
+ {
+   "ID": 2440,
+   "IDMARCA": 297,
+   "NOME": "PASSEIO"
+ },
+ {
+   "ID": 2449,
+   "IDMARCA": 59,
+   "NOME": "BANDIT 400"
+ },
+ {
+   "ID": 2450,
+   "IDMARCA": 59,
+   "NOME": "BANDIT 600"
+ },
+ {
+   "ID": 2452,
+   "IDMARCA": 59,
+   "NOME": "BANDIT GSF 750"
+ },
+ {
+   "ID": 2453,
+   "IDMARCA": 59,
+   "NOME": "BANDIT 1200"
+ },
+ {
+   "ID": 2455,
+   "IDMARCA": 59,
+   "NOME": "HAYABUSA"
+ },
+ {
+   "ID": 2456,
+   "IDMARCA": 59,
+   "NOME": "INTRUDER CUSTOM"
+ },
+ {
+   "ID": 2457,
+   "IDMARCA": 59,
+   "NOME": "RV"
+ },
+ {
+   "ID": 2458,
+   "IDMARCA": 59,
+   "NOME": "SV"
+ },
+ {
+   "ID": 2459,
+   "IDMARCA": 59,
+   "NOME": "MARAUDER VZ"
+ },
+ {
+   "ID": 2460,
+   "IDMARCA": 7,
+   "NOME": "CG CARGO/JOB"
+ },
+ {
+   "ID": 2462,
+   "IDMARCA": 27,
+   "NOME": "EXPLORER"
+ },
+ {
+   "ID": 2467,
+   "IDMARCA": 170,
+   "NOME": "ELIMINATOR"
+ },
+ {
+   "ID": 2468,
+   "IDMARCA": 170,
+   "NOME": "GTR"
+ },
+ {
+   "ID": 2469,
+   "IDMARCA": 170,
+   "NOME": "KLE"
+ },
+ {
+   "ID": 2470,
+   "IDMARCA": 170,
+   "NOME": "KLR"
+ },
+ {
+   "ID": 2471,
+   "IDMARCA": 170,
+   "NOME": "SUPER SHERPA"
+ },
+ {
+   "ID": 2472,
+   "IDMARCA": 170,
+   "NOME": "ZRX"
+ },
+ {
+   "ID": 2473,
+   "IDMARCA": 170,
+   "NOME": "ZR"
+ },
+ {
+   "ID": 2474,
+   "IDMARCA": 170,
+   "NOME": "NINJA 1400"
+ },
+ {
+   "ID": 2475,
+   "IDMARCA": 135,
+   "NOME": "FS1"
+ },
+ {
+   "ID": 2476,
+   "IDMARCA": 203,
+   "NOME": "HB-50"
+ },
+ {
+   "ID": 2480,
+   "IDMARCA": 7,
+   "NOME": "PC 50"
+ },
+ {
+   "ID": 2481,
+   "IDMARCA": 7,
+   "NOME": "CG 125"
+ },
+ {
+   "ID": 2491,
+   "IDMARCA": 7,
+   "NOME": "PACIFIC COAST"
+ },
+ {
+   "ID": 2495,
+   "IDMARCA": 7,
+   "NOME": "CG TODAY"
+ },
+ {
+   "ID": 2496,
+   "IDMARCA": 59,
+   "NOME": "GT"
+ },
+ {
+   "ID": 2501,
+   "IDMARCA": 135,
+   "NOME": "FZR1000"
+ },
+ {
+   "ID": 2502,
+   "IDMARCA": 59,
+   "NOME": "GSI"
+ },
+ {
+   "ID": 2503,
+   "IDMARCA": 213,
+   "NOME": "AMAZONAS"
+ },
+ {
+   "ID": 2511,
+   "IDMARCA": 7,
+   "NOME": "CB 125"
+ },
+ {
+   "ID": 2518,
+   "IDMARCA": 132,
+   "NOME": "PHOENIX 50"
+ },
+ {
+   "ID": 2519,
+   "IDMARCA": 132,
+   "NOME": "INDIANAPOLIS 200"
+ },
+ {
+   "ID": 2520,
+   "IDMARCA": 132,
+   "NOME": "F35/F40"
+ },
+ {
+   "ID": 2521,
+   "IDMARCA": 132,
+   "NOME": "X2 250"
+ },
+ {
+   "ID": 2522,
+   "IDMARCA": 132,
+   "NOME": "MAX 150"
+ },
+ {
+   "ID": 2523,
+   "IDMARCA": 132,
+   "NOME": "NEW WAVE 125"
+ },
+ {
+   "ID": 2524,
+   "IDMARCA": 132,
+   "NOME": "EXPLORER 150"
+ },
+ {
+   "ID": 2525,
+   "IDMARCA": 135,
+   "NOME": "XS400"
+ },
+ {
+   "ID": 2527,
+   "IDMARCA": 135,
+   "NOME": "RD 350 VIUVA NEGRA"
+ },
+ {
+   "ID": 2530,
+   "IDMARCA": 132,
+   "NOME": "XY 250"
+ },
+ {
+   "ID": 2544,
+   "IDMARCA": 59,
+   "NOME": "JOB"
+ },
+ {
+   "ID": 2545,
+   "IDMARCA": 299,
+   "NOME": "RED HUNTER"
+ },
+ {
+   "ID": 2546,
+   "IDMARCA": 299,
+   "NOME": "W/NG"
+ },
+ {
+   "ID": 2547,
+   "IDMARCA": 299,
+   "NOME": "M2F"
+ },
+ {
+   "ID": 2548,
+   "IDMARCA": 299,
+   "NOME": "GOLDEN ARROW"
+ },
+ {
+   "ID": 2554,
+   "IDMARCA": 59,
+   "NOME": "AE 50"
+ },
+ {
+   "ID": 2616,
+   "IDMARCA": 102,
+   "NOME": "RODEO"
+ },
+ {
+   "ID": 2617,
+   "IDMARCA": 102,
+   "NOME": "DURO"
+ },
+ {
+   "ID": 2631,
+   "IDMARCA": 7,
+   "NOME": "DUTY"
+ },
+ {
+   "ID": 2667,
+   "IDMARCA": 340,
+   "NOME": "150"
+ },
+ {
+   "ID": 2668,
+   "IDMARCA": 341,
+   "NOME": "WAKE 500"
+ },
+ {
+   "ID": 2669,
+   "IDMARCA": 341,
+   "NOME": "OUTCROSS"
+ },
+ {
+   "ID": 2670,
+   "IDMARCA": 341,
+   "NOME": "JOY PLUS"
+ },
+ {
+   "ID": 2671,
+   "IDMARCA": 341,
+   "NOME": "PASSION"
+ },
+ {
+   "ID": 2672,
+   "IDMARCA": 341,
+   "NOME": "TREND"
+ },
+ {
+   "ID": 2673,
+   "IDMARCA": 341,
+   "NOME": "PIT BULL"
+ },
+ {
+   "ID": 2674,
+   "IDMARCA": 341,
+   "NOME": "BRUTTUS"
+ },
+ {
+   "ID": 2676,
+   "IDMARCA": 342,
+   "NOME": "UFO 50"
+ },
+ {
+   "ID": 2677,
+   "IDMARCA": 342,
+   "NOME": "LF250ST"
+ },
+ {
+   "ID": 2678,
+   "IDMARCA": 342,
+   "NOME": "FOX 150R"
+ },
+ {
+   "ID": 2679,
+   "IDMARCA": 342,
+   "NOME": "LF400ST"
+ },
+ {
+   "ID": 2680,
+   "IDMARCA": 342,
+   "NOME": "VR 150 WIND"
+ },
+ {
+   "ID": 2681,
+   "IDMARCA": 342,
+   "NOME": "HERCULES 200"
+ },
+ {
+   "ID": 2682,
+   "IDMARCA": 342,
+   "NOME": "ONIX 50R"
+ },
+ {
+   "ID": 2683,
+   "IDMARCA": 342,
+   "NOME": "HS 150 FIRE"
+ },
+ {
+   "ID": 2684,
+   "IDMARCA": 132,
+   "NOME": "JET 50"
+ },
+ {
+   "ID": 2685,
+   "IDMARCA": 132,
+   "NOME": "RETRO 50"
+ },
+ {
+   "ID": 2686,
+   "IDMARCA": 132,
+   "NOME": "NEW 50"
+ },
+ {
+   "ID": 2687,
+   "IDMARCA": 132,
+   "NOME": "EAGLE 50"
+ },
+ {
+   "ID": 2688,
+   "IDMARCA": 132,
+   "NOME": "SUPER SMART 50"
+ },
+ {
+   "ID": 2689,
+   "IDMARCA": 132,
+   "NOME": "NEW 200"
+ },
+ {
+   "ID": 2690,
+   "IDMARCA": 132,
+   "NOME": "CARGO 200"
+ },
+ {
+   "ID": 2691,
+   "IDMARCA": 132,
+   "NOME": "BRAVO 200"
+ },
+ {
+   "ID": 2692,
+   "IDMARCA": 132,
+   "NOME": "STRONG 250"
+ },
+ {
+   "ID": 2693,
+   "IDMARCA": 132,
+   "NOME": "FUTURE 150"
+ },
+ {
+   "ID": 2700,
+   "IDMARCA": 343,
+   "NOME": "KN 150"
+ },
+ {
+   "ID": 2701,
+   "IDMARCA": 343,
+   "NOME": "KN 125 S"
+ },
+ {
+   "ID": 2702,
+   "IDMARCA": 343,
+   "NOME": "KN 50 S"
+ },
+ {
+   "ID": 2703,
+   "IDMARCA": 209,
+   "NOME": "IZY 50"
+ },
+ {
+   "ID": 2721,
+   "IDMARCA": 7,
+   "NOME": "PCX"
+ },
+ {
+   "ID": 2762,
+   "IDMARCA": 36,
+   "NOME": "AIRHEAD"
+ },
+ {
+   "ID": 2763,
+   "IDMARCA": 36,
+   "NOME": "C1"
+ },
+ {
+   "ID": 2764,
+   "IDMARCA": 36,
+   "NOME": "F650GS"
+ },
+ {
+   "ID": 2765,
+   "IDMARCA": 36,
+   "NOME": "F650CS"
+ },
+ {
+   "ID": 2766,
+   "IDMARCA": 36,
+   "NOME": "F800GS"
+ },
+ {
+   "ID": 2767,
+   "IDMARCA": 36,
+   "NOME": "K75"
+ },
+ {
+   "ID": 2768,
+   "IDMARCA": 36,
+   "NOME": "K100"
+ },
+ {
+   "ID": 2769,
+   "IDMARCA": 36,
+   "NOME": "K1200R"
+ },
+ {
+   "ID": 2770,
+   "IDMARCA": 36,
+   "NOME": "K1300R"
+ },
+ {
+   "ID": 2771,
+   "IDMARCA": 36,
+   "NOME": "K1200GT"
+ },
+ {
+   "ID": 2772,
+   "IDMARCA": 36,
+   "NOME": "K1300GT"
+ },
+ {
+   "ID": 2773,
+   "IDMARCA": 36,
+   "NOME": "K1200GS"
+ },
+ {
+   "ID": 2774,
+   "IDMARCA": 36,
+   "NOME": "K1200S"
+ },
+ {
+   "ID": 2775,
+   "IDMARCA": 36,
+   "NOME": "R32"
+ },
+ {
+   "ID": 2776,
+   "IDMARCA": 36,
+   "NOME": "R51/3"
+ },
+ {
+   "ID": 2777,
+   "IDMARCA": 36,
+   "NOME": "R27"
+ },
+ {
+   "ID": 2778,
+   "IDMARCA": 36,
+   "NOME": "R60"
+ },
+ {
+   "ID": 2779,
+   "IDMARCA": 36,
+   "NOME": "R75"
+ },
+ {
+   "ID": 2780,
+   "IDMARCA": 36,
+   "NOME": "R75/5"
+ },
+ {
+   "ID": 2781,
+   "IDMARCA": 36,
+   "NOME": "R90S"
+ },
+ {
+   "ID": 2782,
+   "IDMARCA": 36,
+   "NOME": "R1200C"
+ },
+ {
+   "ID": 2783,
+   "IDMARCA": 36,
+   "NOME": "R1150GS"
+ },
+ {
+   "ID": 2784,
+   "IDMARCA": 36,
+   "NOME": "R1200RT"
+ },
+ {
+   "ID": 2812,
+   "IDMARCA": 204,
+   "NOME": "SPORTSTER"
+ },
+ {
+   "ID": 2816,
+   "IDMARCA": 204,
+   "NOME": "TOURING STREET GLIDE"
+ },
+ {
+   "ID": 2902,
+   "IDMARCA": 135,
+   "NOME": "XTZ 250 TENERE"
+ },
+ {
+   "ID": 2903,
+   "IDMARCA": 135,
+   "NOME": "XT 225"
+ },
+ {
+   "ID": 2904,
+   "IDMARCA": 135,
+   "NOME": "XT 660Z TENERE"
+ },
+ {
+   "ID": 2905,
+   "IDMARCA": 135,
+   "NOME": "XT 1200Z SUPER TENERE"
+ },
+ {
+   "ID": 2906,
+   "IDMARCA": 234,
+   "NOME": "MOBY 50"
+ },
+ {
+   "ID": 2907,
+   "IDMARCA": 234,
+   "NOME": "JOTO 135"
+ },
+ {
+   "ID": 2908,
+   "IDMARCA": 234,
+   "NOME": "MONTEZ 250"
+ },
+ {
+   "ID": 2909,
+   "IDMARCA": 234,
+   "NOME": "DUNNA 600"
+ },
+ {
+   "ID": 2910,
+   "IDMARCA": 234,
+   "NOME": "VICO"
+ },
+ {
+   "ID": 2923,
+   "IDMARCA": 135,
+   "NOME": "FAZER FZ6"
+ },
+ {
+   "ID": 2924,
+   "IDMARCA": 135,
+   "NOME": "FAZER YS150"
+ },
+ {
+   "ID": 2925,
+   "IDMARCA": 135,
+   "NOME": "FAZER FZ1"
+ },
+ {
+   "ID": 2926,
+   "IDMARCA": 135,
+   "NOME": "YZF 600R"
+ },
+ {
+   "ID": 2927,
+   "IDMARCA": 135,
+   "NOME": "YZF R6"
+ },
+ {
+   "ID": 2965,
+   "IDMARCA": 7,
+   "NOME": "CRF 230/250"
+ },
+ {
+   "ID": 2966,
+   "IDMARCA": 7,
+   "NOME": "CRF 450"
+ },
+ {
+   "ID": 2968,
+   "IDMARCA": 7,
+   "NOME": "NX 650 DOMINATOR"
+ },
+ {
+   "ID": 2969,
+   "IDMARCA": 7,
+   "NOME": "CR 250"
+ },
+ {
+   "ID": 2970,
+   "IDMARCA": 7,
+   "NOME": "CR 125"
+ },
+ {
+   "ID": 3029,
+   "IDMARCA": 349,
+   "NOME": "HB"
+ },
+ {
+   "ID": 3113,
+   "IDMARCA": 358,
+   "NOME": "OUTLANDER 400"
+ },
+ {
+   "ID": 3114,
+   "IDMARCA": 358,
+   "NOME": "OUTLANDER 500"
+ },
+ {
+   "ID": 3115,
+   "IDMARCA": 358,
+   "NOME": "OUTLANDER 650"
+ },
+ {
+   "ID": 3116,
+   "IDMARCA": 358,
+   "NOME": "OUTLANDER 800R"
+ },
+ {
+   "ID": 3117,
+   "IDMARCA": 358,
+   "NOME": "OUTLANDER MAX 400"
+ },
+ {
+   "ID": 3118,
+   "IDMARCA": 358,
+   "NOME": "OUTLANDER MAX 500"
+ },
+ {
+   "ID": 3119,
+   "IDMARCA": 358,
+   "NOME": "OUTLANDER MAX 650"
+ },
+ {
+   "ID": 3120,
+   "IDMARCA": 358,
+   "NOME": "OUTLANDER MAX 800R"
+ },
+ {
+   "ID": 3121,
+   "IDMARCA": 358,
+   "NOME": "OUTLANDER MAX LTD 800R"
+ },
+ {
+   "ID": 3122,
+   "IDMARCA": 358,
+   "NOME": "RENEGADE 500"
+ },
+ {
+   "ID": 3123,
+   "IDMARCA": 358,
+   "NOME": "RENEGADE 800R"
+ },
+ {
+   "ID": 3124,
+   "IDMARCA": 358,
+   "NOME": "DS 250"
+ },
+ {
+   "ID": 3125,
+   "IDMARCA": 358,
+   "NOME": "DS 450"
+ },
+ {
+   "ID": 3126,
+   "IDMARCA": 358,
+   "NOME": "DS 90"
+ },
+ {
+   "ID": 3127,
+   "IDMARCA": 358,
+   "NOME": "RT"
+ },
+ {
+   "ID": 3128,
+   "IDMARCA": 358,
+   "NOME": "RS"
+ },
+ {
+   "ID": 3129,
+   "IDMARCA": 170,
+   "NOME": "NINJA 1000"
+ },
+ {
+   "ID": 3130,
+   "IDMARCA": 170,
+   "NOME": "NINJA 600"
+ },
+ {
+   "ID": 3131,
+   "IDMARCA": 170,
+   "NOME": "NINJA 300"
+ },
+ {
+   "ID": 3132,
+   "IDMARCA": 170,
+   "NOME": "NINJA 1100"
+ },
+ {
+   "ID": 3133,
+   "IDMARCA": 170,
+   "NOME": "NINJA 900"
+ },
+ {
+   "ID": 3134,
+   "IDMARCA": 170,
+   "NOME": "NINJA 700"
+ },
+ {
+   "ID": 3135,
+   "IDMARCA": 170,
+   "NOME": "NINJA 1200"
+ },
+ {
+   "ID": 3136,
+   "IDMARCA": 170,
+   "NOME": "Z1000"
+ },
+ {
+   "ID": 3137,
+   "IDMARCA": 170,
+   "NOME": "Z750"
+ },
+ {
+   "ID": 3138,
+   "IDMARCA": 170,
+   "NOME": "Z800"
+ },
+ {
+   "ID": 3139,
+   "IDMARCA": 170,
+   "NOME": "VERSYS CITY"
+ },
+ {
+   "ID": 3140,
+   "IDMARCA": 170,
+   "NOME": "VERSYS GRAND TOURER"
+ },
+ {
+   "ID": 3141,
+   "IDMARCA": 170,
+   "NOME": "VERSYS TOURER"
+ },
+ {
+   "ID": 3142,
+   "IDMARCA": 170,
+   "NOME": "VERSYS 1000"
+ },
+ {
+   "ID": 3143,
+   "IDMARCA": 170,
+   "NOME": "KX 450/500"
+ },
+ {
+   "ID": 3144,
+   "IDMARCA": 170,
+   "NOME": "KX 250"
+ },
+ {
+   "ID": 3145,
+   "IDMARCA": 170,
+   "NOME": "KX 65/85"
+ },
+ {
+   "ID": 3146,
+   "IDMARCA": 170,
+   "NOME": "KLX 400/450"
+ },
+ {
+   "ID": 3147,
+   "IDMARCA": 170,
+   "NOME": "KLX 250/300"
+ },
+ {
+   "ID": 3151,
+   "IDMARCA": 135,
+   "NOME": "TMAX"
+ },
+ {
+   "ID": 3152,
+   "IDMARCA": 135,
+   "NOME": "YFM 700R"
+ },
+ {
+   "ID": 3153,
+   "IDMARCA": 135,
+   "NOME": "GRIZZLY"
+ },
+ {
+   "ID": 3166,
+   "IDMARCA": 344,
+   "NOME": "50 SX"
+ },
+ {
+   "ID": 3167,
+   "IDMARCA": 344,
+   "NOME": "65 SX"
+ },
+ {
+   "ID": 3168,
+   "IDMARCA": 344,
+   "NOME": "85 SX"
+ },
+ {
+   "ID": 3169,
+   "IDMARCA": 344,
+   "NOME": "125 SX"
+ },
+ {
+   "ID": 3170,
+   "IDMARCA": 344,
+   "NOME": "150 SX"
+ },
+ {
+   "ID": 3171,
+   "IDMARCA": 344,
+   "NOME": "250 SX"
+ },
+ {
+   "ID": 3172,
+   "IDMARCA": 344,
+   "NOME": "350 SX"
+ },
+ {
+   "ID": 3173,
+   "IDMARCA": 344,
+   "NOME": "450 SX-F"
+ },
+ {
+   "ID": 3174,
+   "IDMARCA": 344,
+   "NOME": "350 EXC"
+ },
+ {
+   "ID": 3175,
+   "IDMARCA": 344,
+   "NOME": "500 EXC"
+ },
+ {
+   "ID": 3176,
+   "IDMARCA": 344,
+   "NOME": "150 XC"
+ },
+ {
+   "ID": 3177,
+   "IDMARCA": 344,
+   "NOME": "250 XC"
+ },
+ {
+   "ID": 3178,
+   "IDMARCA": 344,
+   "NOME": "300 XC"
+ },
+ {
+   "ID": 3180,
+   "IDMARCA": 344,
+   "NOME": "450 XC-F/W"
+ },
+ {
+   "ID": 3181,
+   "IDMARCA": 344,
+   "NOME": "200 XC"
+ },
+ {
+   "ID": 3183,
+   "IDMARCA": 344,
+   "NOME": "690 ENDURO R"
+ },
+ {
+   "ID": 3184,
+   "IDMARCA": 344,
+   "NOME": "1190 ADVENTURE"
+ },
+ {
+   "ID": 3185,
+   "IDMARCA": 344,
+   "NOME": "990 SM T"
+ },
+ {
+   "ID": 3186,
+   "IDMARCA": 344,
+   "NOME": "990 ADVENTURE BAJA"
+ },
+ {
+   "ID": 3187,
+   "IDMARCA": 344,
+   "NOME": "690 DUKE"
+ },
+ {
+   "ID": 3188,
+   "IDMARCA": 344,
+   "NOME": "1190 RC8 R"
+ },
+ {
+   "ID": 3189,
+   "IDMARCA": 359,
+   "NOME": "ACX 250F"
+ },
+ {
+   "ID": 3190,
+   "IDMARCA": 359,
+   "NOME": "HOTZOO SPORT 90"
+ },
+ {
+   "ID": 3191,
+   "IDMARCA": 359,
+   "NOME": "SPORTLANDER 150R"
+ },
+ {
+   "ID": 3192,
+   "IDMARCA": 359,
+   "NOME": "SPORTLANDER 250XR"
+ },
+ {
+   "ID": 3193,
+   "IDMARCA": 359,
+   "NOME": "SPORTLANDER 350ZX"
+ },
+ {
+   "ID": 3194,
+   "IDMARCA": 359,
+   "NOME": "SPORTLANDER 450TR"
+ },
+ {
+   "ID": 3195,
+   "IDMARCA": 359,
+   "NOME": "QUADRILANDER 300"
+ },
+ {
+   "ID": 3196,
+   "IDMARCA": 359,
+   "NOME": "QUADRILANDER 400"
+ },
+ {
+   "ID": 3197,
+   "IDMARCA": 359,
+   "NOME": "QUADRILANDER 600"
+ },
+ {
+   "ID": 3198,
+   "IDMARCA": 359,
+   "NOME": "FRONTLANDER 500"
+ },
+ {
+   "ID": 3199,
+   "IDMARCA": 359,
+   "NOME": "FRONTLANDER 800 EFI"
+ },
+ {
+   "ID": 3201,
+   "IDMARCA": 344,
+   "NOME": "525 XC"
+ },
+ {
+   "ID": 3202,
+   "IDMARCA": 344,
+   "NOME": "505 SX"
+ },
+ {
+   "ID": 3203,
+   "IDMARCA": 344,
+   "NOME": "450 XC"
+ },
+ {
+   "ID": 3204,
+   "IDMARCA": 344,
+   "NOME": "450 SX"
+ },
+ {
+   "ID": 3205,
+   "IDMARCA": 132,
+   "NOME": "VENICE 50"
+ },
+ {
+   "ID": 3206,
+   "IDMARCA": 132,
+   "NOME": "LIBERTY 50"
+ },
+ {
+   "ID": 3207,
+   "IDMARCA": 132,
+   "NOME": "BIKE 50"
+ },
+ {
+   "ID": 3208,
+   "IDMARCA": 132,
+   "NOME": "JET 125"
+ },
+ {
+   "ID": 3209,
+   "IDMARCA": 132,
+   "NOME": "CUSTOM 250"
+ },
+ {
+   "ID": 3210,
+   "IDMARCA": 132,
+   "NOME": "DISCOVER 250"
+ },
+ {
+   "ID": 4362,
+   "IDMARCA": 171,
+   "NOME": "RZR 570"
+ },
+ {
+   "ID": 4363,
+   "IDMARCA": 171,
+   "NOME": "RZR 800"
+ },
+ {
+   "ID": 4364,
+   "IDMARCA": 171,
+   "NOME": "RZR 800 XC"
+ },
+ {
+   "ID": 4365,
+   "IDMARCA": 171,
+   "NOME": "RZR S 800"
+ },
+ {
+   "ID": 4366,
+   "IDMARCA": 171,
+   "NOME": "RZR 900"
+ },
+ {
+   "ID": 4367,
+   "IDMARCA": 171,
+   "NOME": "RZR XP 1000"
+ },
+ {
+   "ID": 4368,
+   "IDMARCA": 171,
+   "NOME": "RZR 4 800"
+ },
+ {
+   "ID": 4369,
+   "IDMARCA": 171,
+   "NOME": "RZR 4 900"
+ },
+ {
+   "ID": 4370,
+   "IDMARCA": 171,
+   "NOME": "RZR 4 1000"
+ },
+ {
+   "ID": 4371,
+   "IDMARCA": 171,
+   "NOME": "RANGER 6X6"
+ },
+ {
+   "ID": 4372,
+   "IDMARCA": 171,
+   "NOME": "RANGER 800"
+ },
+ {
+   "ID": 4373,
+   "IDMARCA": 171,
+   "NOME": "RANGER DIESEL"
+ },
+ {
+   "ID": 4374,
+   "IDMARCA": 171,
+   "NOME": "RANGER XP 900"
+ },
+ {
+   "ID": 4375,
+   "IDMARCA": 171,
+   "NOME": "RANGER 400"
+ },
+ {
+   "ID": 4376,
+   "IDMARCA": 171,
+   "NOME": "RANGER 570"
+ },
+ {
+   "ID": 4377,
+   "IDMARCA": 171,
+   "NOME": "RANGER 800 MIDSIZE"
+ },
+ {
+   "ID": 4378,
+   "IDMARCA": 171,
+   "NOME": "RANGER EV"
+ },
+ {
+   "ID": 4379,
+   "IDMARCA": 171,
+   "NOME": "RANGER CREW 570"
+ },
+ {
+   "ID": 4380,
+   "IDMARCA": 171,
+   "NOME": "RANGER CREW 800"
+ },
+ {
+   "ID": 4381,
+   "IDMARCA": 171,
+   "NOME": "RANGER CREW DIESEL"
+ },
+ {
+   "ID": 4382,
+   "IDMARCA": 171,
+   "NOME": "RANGER CREW 900"
+ },
+ {
+   "ID": 4383,
+   "IDMARCA": 171,
+   "NOME": "SPORTSMAN 550 EPS"
+ },
+ {
+   "ID": 4384,
+   "IDMARCA": 171,
+   "NOME": "SPORTSMAN 570"
+ },
+ {
+   "ID": 4385,
+   "IDMARCA": 171,
+   "NOME": "SPORTSMAN 400 HO"
+ },
+ {
+   "ID": 4386,
+   "IDMARCA": 171,
+   "NOME": "SPORTSMAN WV850 HO"
+ },
+ {
+   "ID": 4387,
+   "IDMARCA": 171,
+   "NOME": "SPORTSMAN XP 850"
+ },
+ {
+   "ID": 4388,
+   "IDMARCA": 171,
+   "NOME": "SPORTSMAN 800 EFI"
+ },
+ {
+   "ID": 4389,
+   "IDMARCA": 171,
+   "NOME": "SPORTSMAN BIG BOSS 6X6 800"
+ },
+ {
+   "ID": 4390,
+   "IDMARCA": 171,
+   "NOME": "SCRAMBLER XP 850 HO"
+ },
+ {
+   "ID": 4391,
+   "IDMARCA": 171,
+   "NOME": "SCRAMBLER XP 1000 EPS"
+ },
+ {
+   "ID": 4392,
+   "IDMARCA": 171,
+   "NOME": "SPORTSMAN TOURING 850"
+ },
+ {
+   "ID": 4393,
+   "IDMARCA": 171,
+   "NOME": "SPORTSMAN TOURING 570"
+ },
+ {
+   "ID": 4394,
+   "IDMARCA": 171,
+   "NOME": "SPORTSMAN TOURING 550"
+ },
+ {
+   "ID": 4395,
+   "IDMARCA": 171,
+   "NOME": "SPORTSMAN X2 550"
+ },
+ {
+   "ID": 4396,
+   "IDMARCA": 171,
+   "NOME": "PHOENIX 200"
+ },
+ {
+   "ID": 4397,
+   "IDMARCA": 171,
+   "NOME": "RZR 170"
+ },
+ {
+   "ID": 4398,
+   "IDMARCA": 171,
+   "NOME": "OUTLAW 90"
+ },
+ {
+   "ID": 4399,
+   "IDMARCA": 171,
+   "NOME": "SPORTSMAN 90"
+ },
+ {
+   "ID": 4400,
+   "IDMARCA": 171,
+   "NOME": "OUTLAW 50"
+ },
+ {
+   "ID": 4401,
+   "IDMARCA": 171,
+   "NOME": "BRUTUS"
+ },
+ {
+   "ID": 4402,
+   "IDMARCA": 483,
+   "NOME": "CROSS ROADS 8-BALL"
+ },
+ {
+   "ID": 4403,
+   "IDMARCA": 483,
+   "NOME": "CROSS ROADS CLASSIC"
+ },
+ {
+   "ID": 4404,
+   "IDMARCA": 483,
+   "NOME": "CROSS COUNTRY 8-BALL"
+ },
+ {
+   "ID": 4405,
+   "IDMARCA": 483,
+   "NOME": "CROSS COUNTRY"
+ },
+ {
+   "ID": 4406,
+   "IDMARCA": 483,
+   "NOME": "NESS CROSS COUNTRY"
+ },
+ {
+   "ID": 4407,
+   "IDMARCA": 483,
+   "NOME": "VISION TOUR"
+ },
+ {
+   "ID": 4408,
+   "IDMARCA": 483,
+   "NOME": "CROSS COUNTRY TOUR"
+ },
+ {
+   "ID": 4409,
+   "IDMARCA": 483,
+   "NOME": "CROSS COUNTRY TOUR ANNIVERSARY"
+ },
+ {
+   "ID": 4410,
+   "IDMARCA": 483,
+   "NOME": "VEGAS 8-BALL"
+ },
+ {
+   "ID": 4411,
+   "IDMARCA": 483,
+   "NOME": "HIGH-BALL"
+ },
+ {
+   "ID": 4412,
+   "IDMARCA": 483,
+   "NOME": "HAMMER 8-BALL"
+ },
+ {
+   "ID": 4413,
+   "IDMARCA": 483,
+   "NOME": "BOARDWALK"
+ },
+ {
+   "ID": 4414,
+   "IDMARCA": 483,
+   "NOME": "JACKPOT"
+ },
+ {
+   "ID": 4415,
+   "IDMARCA": 483,
+   "NOME": "JUDGE"
+ },
+ {
+   "ID": 4416,
+   "IDMARCA": 483,
+   "NOME": "ZACH NESS CROSS COUNTRY"
+ },
+ {
+   "ID": 4417,
+   "IDMARCA": 483,
+   "NOME": "HARD-BALL"
+ },
+ {
+   "ID": 4418,
+   "IDMARCA": 483,
+   "NOME": "NESS VISION"
+ },
+ {
+   "ID": 4419,
+   "IDMARCA": 483,
+   "NOME": "CORY NESS CROSS COUNTRY TOUR"
+ },
+ {
+   "ID": 4420,
+   "IDMARCA": 484,
+   "NOME": "CHIEF CLASSIC"
+ },
+ {
+   "ID": 4421,
+   "IDMARCA": 484,
+   "NOME": "CHIEF VINTAGE"
+ },
+ {
+   "ID": 4422,
+   "IDMARCA": 484,
+   "NOME": "CHIEFTAIN"
+ },
+ {
+   "ID": 4459,
+   "IDMARCA": 98,
+   "NOME": "COOL STAR 125"
+ },
+ {
+   "ID": 4460,
+   "IDMARCA": 98,
+   "NOME": "X3"
+ },
+ {
+   "ID": 4461,
+   "IDMARCA": 98,
+   "NOME": "JOJO 110"
+ },
+ {
+   "ID": 4462,
+   "IDMARCA": 98,
+   "NOME": "CC125"
+ },
+ {
+   "ID": 4463,
+   "IDMARCA": 98,
+   "NOME": "CC150"
+ },
+ {
+   "ID": 4464,
+   "IDMARCA": 98,
+   "NOME": "KP150F"
+ },
+ {
+   "ID": 4465,
+   "IDMARCA": 98,
+   "NOME": "LF100"
+ },
+ {
+   "ID": 4466,
+   "IDMARCA": 98,
+   "NOME": "PK125"
+ },
+ {
+   "ID": 4467,
+   "IDMARCA": 98,
+   "NOME": "POWER KING"
+ },
+ {
+   "ID": 4468,
+   "IDMARCA": 98,
+   "NOME": "CROSS"
+ },
+ {
+   "ID": 4469,
+   "IDMARCA": 98,
+   "NOME": "GLOW 110S"
+ },
+ {
+   "ID": 4470,
+   "IDMARCA": 98,
+   "NOME": "KP150"
+ },
+ {
+   "ID": 4471,
+   "IDMARCA": 98,
+   "NOME": "POWER MAN 250"
+ },
+ {
+   "ID": 4472,
+   "IDMARCA": 98,
+   "NOME": "HIKER"
+ },
+ {
+   "ID": 4473,
+   "IDMARCA": 98,
+   "NOME": "IV"
+ },
+ {
+   "ID": 4474,
+   "IDMARCA": 98,
+   "NOME": "STEED 250"
+ },
+ {
+   "ID": 4475,
+   "IDMARCA": 98,
+   "NOME": "TRAVELLER"
+ },
+ {
+   "ID": 4476,
+   "IDMARCA": 98,
+   "NOME": "TB125"
+ },
+ {
+   "ID": 4477,
+   "IDMARCA": 98,
+   "NOME": "PK110F"
+ },
+ {
+   "ID": 4478,
+   "IDMARCA": 98,
+   "NOME": "LF125"
+ },
+ {
+   "ID": 4520,
+   "IDMARCA": 98,
+   "NOME": "LF125"
+ },
+ {
+   "ID": 4914,
+   "IDMARCA": 532,
+   "NOME": "F2 PLUS"
+ },
+ {
+   "ID": 4915,
+   "IDMARCA": 532,
+   "NOME": "SUPER F2"
+ },
+ {
+   "ID": 4916,
+   "IDMARCA": 532,
+   "NOME": "SUPER F1"
+ },
+ {
+   "ID": 4917,
+   "IDMARCA": 532,
+   "NOME": "SUPER F3"
+ },
+ {
+   "ID": 4918,
+   "IDMARCA": 532,
+   "NOME": "BVX 125"
+ },
+ {
+   "ID": 4919,
+   "IDMARCA": 532,
+   "NOME": "BVX 130 STREET"
+ },
+ {
+   "ID": 4920,
+   "IDMARCA": 532,
+   "NOME": "BVX 150 S1"
+ },
+ {
+   "ID": 4921,
+   "IDMARCA": 532,
+   "NOME": "TR 150 D6"
+ },
+ {
+   "ID": 4922,
+   "IDMARCA": 532,
+   "NOME": "AX 200"
+ },
+ {
+   "ID": 4923,
+   "IDMARCA": 532,
+   "NOME": "BVX 200"
+ },
+ {
+   "ID": 4924,
+   "IDMARCA": 532,
+   "NOME": "BX 260"
+ },
+ {
+   "ID": 4925,
+   "IDMARCA": 532,
+   "NOME": "BR 250 D1"
+ },
+ {
+   "ID": 4926,
+   "IDMARCA": 532,
+   "NOME": "CARGO 260"
+ },
+ {
+   "ID": 4928,
+   "IDMARCA": 133,
+   "NOME": "COMET GT 250"
+ },
+ {
+   "ID": 4929,
+   "IDMARCA": 133,
+   "NOME": "COMET GT-R 250"
+ },
+ {
+   "ID": 4930,
+   "IDMARCA": 135,
+   "NOME": "RD 50"
+ },
+ {
+   "ID": 4931,
+   "IDMARCA": 135,
+   "NOME": "DT 50"
+ },
+ {
+   "ID": 4932,
+   "IDMARCA": 135,
+   "NOME": "MT-01"
+ },
+ {
+   "ID": 4933,
+   "IDMARCA": 135,
+   "NOME": "FZ-09"
+ },
+ {
+   "ID": 4934,
+   "IDMARCA": 135,
+   "NOME": "MT-07"
+ },
+ {
+   "ID": 4935,
+   "IDMARCA": 135,
+   "NOME": "FZR600"
+ },
+ {
+   "ID": 4936,
+   "IDMARCA": 135,
+   "NOME": "FZR400"
+ },
+ {
+   "ID": 4937,
+   "IDMARCA": 135,
+   "NOME": "FZR250"
+ },
+ {
+   "ID": 4938,
+   "IDMARCA": 135,
+   "NOME": "XS500"
+ },
+ {
+   "ID": 4939,
+   "IDMARCA": 135,
+   "NOME": "XS650"
+ },
+ {
+   "ID": 4940,
+   "IDMARCA": 135,
+   "NOME": "XS750"
+ },
+ {
+   "ID": 4941,
+   "IDMARCA": 135,
+   "NOME": "XS850"
+ },
+ {
+   "ID": 4942,
+   "IDMARCA": 135,
+   "NOME": "XS1100"
+ },
+ {
+   "ID": 4943,
+   "IDMARCA": 135,
+   "NOME": "SR500"
+ },
+ {
+   "ID": 4944,
+   "IDMARCA": 135,
+   "NOME": "SRX 400"
+ },
+ {
+   "ID": 4945,
+   "IDMARCA": 135,
+   "NOME": "SRX 600"
+ },
+ {
+   "ID": 4946,
+   "IDMARCA": 135,
+   "NOME": "V-MAX 1680"
+ },
+ {
+   "ID": 4947,
+   "IDMARCA": 135,
+   "NOME": "FJR1300"
+ },
+ {
+   "ID": 4948,
+   "IDMARCA": 135,
+   "NOME": "XTZ 750 SUPER TENERE"
+ },
+ {
+   "ID": 4949,
+   "IDMARCA": 135,
+   "NOME": "XT 600"
+ },
+ {
+   "ID": 4950,
+   "IDMARCA": 135,
+   "NOME": "VIRAGO 400"
+ },
+ {
+   "ID": 4951,
+   "IDMARCA": 135,
+   "NOME": "VIRAGO 535"
+ },
+ {
+   "ID": 4952,
+   "IDMARCA": 135,
+   "NOME": "VIRAGO 750"
+ },
+ {
+   "ID": 4953,
+   "IDMARCA": 135,
+   "NOME": "VIRAGO 1400"
+ },
+ {
+   "ID": 4954,
+   "IDMARCA": 135,
+   "NOME": "XZ 550"
+ },
+ {
+   "ID": 4955,
+   "IDMARCA": 135,
+   "NOME": "YZR 500"
+ },
+ {
+   "ID": 4956,
+   "IDMARCA": 135,
+   "NOME": "WR 450F"
+ },
+ {
+   "ID": 4957,
+   "IDMARCA": 135,
+   "NOME": "TZ 250"
+ },
+ {
+   "ID": 4958,
+   "IDMARCA": 135,
+   "NOME": "YZ 125"
+ },
+ {
+   "ID": 4959,
+   "IDMARCA": 135,
+   "NOME": "YZ 250"
+ },
+ {
+   "ID": 4960,
+   "IDMARCA": 135,
+   "NOME": "YZ 450"
+ },
+ {
+   "ID": 4961,
+   "IDMARCA": 135,
+   "NOME": "TX500"
+ },
+ {
+   "ID": 4962,
+   "IDMARCA": 135,
+   "NOME": "XR 180"
+ },
+ {
+   "ID": 4963,
+   "IDMARCA": 135,
+   "NOME": "TT 125"
+ },
+ {
+   "ID": 4966,
+   "IDMARCA": 170,
+   "NOME": "ER-5"
+ },
+ {
+   "ID": 4993,
+   "IDMARCA": 204,
+   "NOME": "CVO"
+ },
+ {
+   "ID": 4994,
+   "IDMARCA": 185,
+   "NOME": "ALPINA"
+ },
+ {
+   "ID": 4995,
+   "IDMARCA": 185,
+   "NOME": "APOLO"
+ },
+ {
+   "ID": 4996,
+   "IDMARCA": 185,
+   "NOME": "NEVADA"
+ },
+ {
+   "ID": 4997,
+   "IDMARCA": 185,
+   "NOME": "WINSTAR"
+ },
+ {
+   "ID": 4998,
+   "IDMARCA": 185,
+   "NOME": "ELEKTRA"
+ },
+ {
+   "ID": 4999,
+   "IDMARCA": 185,
+   "NOME": "TEXANA"
+ },
+ {
+   "ID": 5000,
+   "IDMARCA": 185,
+   "NOME": "ALTINO"
+ },
+ {
+   "ID": 5001,
+   "IDMARCA": 185,
+   "NOME": "AQUILA"
+ },
+ {
+   "ID": 5002,
+   "IDMARCA": 185,
+   "NOME": "DAYSTAR ROUTIER"
+ }
+]

@@ -1,0 +1,114 @@
+[
+ {
+   "ID": 1,
+   "NOME": "CHEVROLET"
+ },
+ {
+   "ID": 2,
+   "NOME": "VOLKSWAGEN"
+ },
+ {
+   "ID": 3,
+   "NOME": "FIAT"
+ },
+ {
+   "ID": 4,
+   "NOME": "MERCEDES-BENZ"
+ },
+ {
+   "ID": 6,
+   "NOME": "CHANA"
+ },
+ {
+   "ID": 13,
+   "NOME": "FORD"
+ },
+ {
+   "ID": 14,
+   "NOME": "HYUNDAI"
+ },
+ {
+   "ID": 16,
+   "NOME": "KIA"
+ },
+ {
+   "ID": 23,
+   "NOME": "TOYOTA"
+ },
+ {
+   "ID": 24,
+   "NOME": "RENAULT"
+ },
+ {
+   "ID": 27,
+   "NOME": "AGRALE"
+ },
+ {
+   "ID": 53,
+   "NOME": "VOLVO"
+ },
+ {
+   "ID": 84,
+   "NOME": "ISUZU"
+ },
+ {
+   "ID": 85,
+   "NOME": "IVECO"
+ },
+ {
+   "ID": 131,
+   "NOME": "UTILITARIOS AGRICOLAS"
+ },
+ {
+   "ID": 164,
+   "NOME": "TRAILER"
+ },
+ {
+   "ID": 167,
+   "NOME": "RANDON"
+ },
+ {
+   "ID": 242,
+   "NOME": "SCANIA"
+ },
+ {
+   "ID": 261,
+   "NOME": "OUTROS"
+ },
+ {
+   "ID": 263,
+   "NOME": "ONIBUS"
+ },
+ {
+   "ID": 266,
+   "NOME": "UTILITARIOS PESADOS"
+ },
+ {
+   "ID": 270,
+   "NOME": "MOTOR-HOME"
+ },
+ {
+   "ID": 274,
+   "NOME": "MAN"
+ },
+ {
+   "ID": 275,
+   "NOME": "NAVISTAR"
+ },
+ {
+   "ID": 277,
+   "NOME": "SINOTRUK"
+ },
+ {
+   "ID": 284,
+   "NOME": "SCHIFFER"
+ },
+ {
+   "ID": 285,
+   "NOME": "GUERRA"
+ },
+ {
+   "ID": 292,
+   "NOME": "MICHIGAN"
+ }
+]
